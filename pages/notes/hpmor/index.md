@@ -1,0 +1,5 @@
+﻿Just finished reading "Harry Potter and Methods of Rationality" — the epic fanfic based on the you-know-whose universe. An author is a tough specialist in the field of artificial intelligence and interesting on his own, but his book is what I insistently [recommend](http://hpmor.com/) to read.
+
+First of all, it is the magnificent rethinking of the original saga. Many aspects seem not less fascinating, I may say; moreover, the plot itself is certainly excellent — I read two-thirds of the story without switching [Gene Wilder](gene-wilder-meme.jpg) off :-) Nevertheless, the author was skillful enough to make all points meet and finish a storyline in such a pretty way that I had almost nothing to complain about.
+
+In any case, this book is a well way to meet with a lot of scientific and just interesting things which were mentioned along the way. The author is smart and his book is a smart one too.

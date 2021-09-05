@@ -1,0 +1,5 @@
+﻿Yesterday morning, I was buying gifts for my women. While a florist was makings bouquets for me, we had a small talk and I suddenly caught her eye. She was looking at the growing crowd of customers with calmness and a clearly readable shadow of doom. This is probably how sailors looking at a surging wave which is about to bury their boat :-)
+
+People outside the flower industry grin sometimes — they say, eight of March is such a magical holiday for all the florists who make a fortune in ten hours. Well, income is really good these days, but literally anybody who has ever worked in this sphere more often associates the holiday (and a couple of days before it, by the way) with a monstrous strain on health and nerves.
+
+I can say that I got off cheaply: was just deploying and servicing some IT of a local net of flower shops, nothing more (by the way, I want to proudly [recommend](http://rosetta.florist/) my former colleagues!). Nonetheless, the smell of flowers caused me Vietnam syndrome for a long time :-)

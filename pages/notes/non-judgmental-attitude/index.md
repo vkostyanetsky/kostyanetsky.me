@@ -1,0 +1,3 @@
+﻿There is a good [note](http://maximilyahov.ru/blog/all/mne-ok/) from Maxim Ilyahov about a way of analyzing something which doesn't concern you but annoys you anyway. It's reminded me of an American principle of non-judgemental attitude which I've [learnt](https://www.facebook.com/lilya.kim/posts/490845771117074) in Facebook a couple of years ago. As for me, it uses different words to make the same point.
+
+By the way, this principle presents in Russia too — there is even a famous adage "don't be judgemental so you won't be judged". What a pity for us that it isn't so widespread yet.

@@ -1,0 +1,9 @@
+﻿I have [translated](https://acomics.ru/~sebby-x-player) Stardew Valley fan manga on a wave of enthusiasm at the end of July (SV is an enormously addictive farmer simulator which [went out](https://store.steampowered.com/app/413150/Stardew_Valley/) a couple of years ago).
+
+It was an amusing experience. Firstly, an author of the manga is Chinese and her work was already translated from Chinese to English. I'm not sure what was the bigger problem — cultural differences or language skills, but several frames were a bit difficult to understand what's going on. Secondly, I've figured out that it's a real challenge to pick proper Russian words and not to get something like a quote from an official government's letter in the end.
+
+So, a part of sense had lost during the process, I guess, although I tried to keep everything I could and even had a word with the author in order to solve the most problematic cases. It was quite funny — I don't know Chinese, she doesn't know Russian, so our a bit poor English was the only way to understand each other.
+
+Something could have been translated better, I suppose, and several pictures definitely could have been changed more accurately. But you know what? Hell it out, perfection is a cruel mistress and I like the result yet. Yeah, there is no big deal or something like it — a drawing style is quite common, a plot has no significant differences with the game, but... I don't know. Perhaps, visual novels made a too sentimental son of a bitch out of me :-)
+
+Thanks to [Alice](https://vk.com/id54890849) for helping me with image processing, [Lem](https://twitter.com/amish77kin) for helping me with the translation and [Marika](https://vk.com/mahrunteka) for the inspiration. And, sure, thanks to [Quantus](https://curayukie.deviantart.com) for the manga.

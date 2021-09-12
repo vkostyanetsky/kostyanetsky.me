@@ -43,7 +43,7 @@ jobs:
           git add --all        
         working-directory: project
         
-      - name: Commit and push
+      - name: Push and send notification
         run: |
           COMMIT_MESSAGE="Update at $(date +'%Y-%m-%d %H:%M:%S')"          
           git diff-index --quiet --cached HEAD -- && echo "No changes!" && exit 0 || echo $COMMIT_MESSAGE

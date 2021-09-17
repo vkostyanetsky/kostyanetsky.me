@@ -12,4 +12,4 @@ There is a chain of queries, in the lowest of which we scan all the TS (which, I
 
 Well, I'm not even talking about the load on the DBMS (I would venture to guess that this trick doesn't give a noticeable effect — after all, the selection is going to be quite small). It's just… Well… Checking a selection of rows is, like, five lines of code. Clear, simple, short, Sonar has no room to swear. How could you give birth to this? Because of great love for queries?
 
-You know what? I bet that it's the correct answer. I can almost see this programmer, who has just mastered the query language more or less tolerably. He is in the absolute delight of new opportunities! If all you have is a hammer, everything around looks like nails.
+You know what? I bet that it's the correct answer. I can almost see this programmer, who has just mastered the query language more or less tolerably. He is in the absolute delight of new opportunities, so… If all you have is a hammer, everything around looks like nails.

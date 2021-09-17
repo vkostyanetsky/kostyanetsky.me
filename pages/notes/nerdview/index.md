@@ -7,4 +7,4 @@ On the screenshot above my little one is just letting me know where she is: walk
     And I exit school
     Then I gonna swing
 
-We use Gherkin to write our autotests for [Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation). I can't say I've made very many of them, especially in comparison with some of my colleagues... Well, it seems like I've made them enough to twist the reality a few.
+We use Gherkin to write our autotests for [Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation). I can't say I've made very many of them, especially in comparison with some of my colleagues… Well, it seems like I've made them enough to twist the reality a few.

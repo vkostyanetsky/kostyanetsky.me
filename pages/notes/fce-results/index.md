@@ -5,6 +5,7 @@ Well, I guess I should begin my preparation for CAE in the next year.
 Speaking about languages, I remembered Feynman with his famous "Surely You're Joking". Among many things, he told that he learned to play on a frigideira when he lived in Brazil and had reached so high level of skill that he served as a model for local musicians.
 
 > My theory is that it's like a person who speaks French who comes to America. At first they're making all kinds of mistakes, and you can hardly understand them. Then they keep on practicing until they speak rather well, and you find there's a delightful twist to their way of speaking their accent is rather nice, and you love to listen to it.
+
 >*― Richard Feynman, "Surely You're Joking, Mr. Feynman!"*
 
 As for me, there is a lot of efforts between "all kinds of mistakes" and "love to listen", but it is such a good synopsis. Working on it!

@@ -4,7 +4,7 @@ Just imagine: you have a document, which contains several tabular sections. Each
 
 The task is pretty primitive, isn't it? All of us have done something like this a million times. Just read the selection, use IsBlankString() on the comment field and load the appropriate template. Coffee time!
 
-However, instead of a short cycle I saw this:
+However, instead of a short cycle, I saw this:
 
 https://gist.github.com/vkostyanetsky/e870d5bb3d2f23d93f3d17001eaef59b
 

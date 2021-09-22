@@ -1,6 +1,6 @@
 ﻿https://youtu.be/kVd6qeWoAxg
 
-The nice release of the “We Are Doomed” IT podcast about developer burnout. No insights, but you can hear something useful. For example, what about not switching to pet projects after work, but close your laptop and go for a walk?
+The nice episode of the “We Are Doomed” IT podcast about developer burnout. No insights, but you can hear something useful. For example, what about not switching to pet projects after work, but close your laptop and go for a walk?
 
 I liked the analogy with video games, somewhere close to the middle:
 

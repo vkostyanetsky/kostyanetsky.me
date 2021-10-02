@@ -4,7 +4,7 @@ I collected statics using a script. It was working with a list of text files, pe
 
 This scheme worked well, but the number of clicks annoyed me. Here is the script pull, and there is the script pull, and then you have to tinker with the git. I wanted it to be simpler.
 
-At some point, I figured out that not only the deployment of statics, but also the assembly can be shifted onto the shoulders of GitHub! I put together some thoughts and added two more repositories:
+At some point, I figured out that not only the deployment of statics, but also the assembly can be shifted onto the shoulders of GitHub. I put together some thoughts and added two more repositories:
 
 1. A [repository](https://github.com/vkostyanetsky/kostyanetsky.me) of initial data. Here I put the content of the site: the text files and a bit of metadata (page titles, dates of pages creation, tags for notes, and so on).
 2. A [repository](https://github.com/vkostyanetsky/BlogBuilder) of the script for generating statics. In addition to the script itself, I put various assets here (icons, styles, manifests — in general, everything that doesn't need to be generated every time, but you have to “put” it next to the resulting HTML).

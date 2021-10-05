@@ -3,4 +3,5 @@ description:    "I've made a build-and-deploy pipeline for this site on each pus
 created:        2021-09-29 22:00:00
 changed:        2021-09-29 22:00:00
 tags:
+    - blog
     - done

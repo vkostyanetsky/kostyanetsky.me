@@ -1,4 +1,4 @@
-﻿A few days ago, there was a link to 1Ci certificate in the team chat (a colleague passed their junior [course](https://academy.1ci.com/courses/1c-junior-developer)). I go over, I get a PDF. Everything is OK, right? Well, then I open the file:
+﻿A few days ago, there was a link to 1Ci certificate in the team chat (a colleague passed their junior [course](https://academy.1ci.com/courses/1c-junior-developer)). I go over and see no auth form, no errors — I just get a PDF file. Everything is OK, right? Well, then I open the file:
 
 ![Error.pdf](not-your-certificate.png)
 

@@ -1,0 +1,7 @@
+﻿title:          "Reuse Carefully"
+description:    "When you work with modules that reuses of return values, you can make an unpleasant error."
+created:        2022-02-08 9:00:11
+changed:        2022-02-08 9:30:13
+tags:
+    - 1c
+    - work

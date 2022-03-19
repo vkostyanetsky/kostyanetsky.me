@@ -10,6 +10,6 @@ In short, if you imagine me as a character in some video game, it looks like thi
 
 You know what? I'll take ten kilometers run for a start.
 
-https://twitter.com/EffinBirds/status/1329575199667347459
+[![Tweet](snap-tweet-EffinBirds-1329575199667347459.png)](https://twitter.com/EffinBirds/status/1329575199667347459)
 
 Maybe, birdie, maybe.

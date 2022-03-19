@@ -4,7 +4,7 @@ I start investigating. First, I look at the screenshots in Allure: OK, the reaso
 
 It's a mess, it needs to be fixed! I look at the condition in the code: well, it locks the field if the VAT rate is in the list of “zero” rates (list of VAT rates whose rate is equal to zero). Everything appears to be simple and logical. What the hell could possibly go wrong here?
 
-https://twitter.com/EffinBirds/status/1489980393675702281
+[![Tweet](snap-tweet-EffinBirds-1489980393675702281.png)](https://twitter.com/EffinBirds/status/1489980393675702281)
 
 Well, I try to reproduce the bug manually. And there, all of a sudden, everything is nice: the conditional appearance works as it should. Floating bug, or what? I run the auto-test again, at the right moment I jump in with the debugger and find some outright garbage: in the list of “zero” rates, besides themselves, there are a bunch of empty links!
 
@@ -16,7 +16,7 @@ How? Well, if you get some values ​​from a cached common module, and they ar
 
 It's that simple, yes. This is what happened in my case: the form of another document called the method that generates the list of “zero” rates. Having received a list of values, it added an empty ref to it and used it in its logic. Thus, each time this form opens, the list cache contains more and more empty refs, which eventually broke the document at the other end of the configuration.
 
-https://twitter.com/EffinBirds/status/1488165946342662144
+[![Tweet](snap-tweet-EffinBirds-1488165946342662144.png)](https://twitter.com/EffinBirds/status/1488165946342662144)
 
 In a good way, the platform should throw exceptions when developer trying to change the cache, but until this happens, you have to take care yourself. For example, when developing cached modules, return immutable data types from them (FixedStructure instead of Structure, FixedArray instead of Array, and so on). True, this is not a 100% protection: firstly, fixed types are not applicable everywhere, and secondly, even in the latest versions of the SSL, this is far from being done everywhere. Do you know many configurations not based on SSL?
 

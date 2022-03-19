@@ -1,4 +1,4 @@
-﻿https://twitter.com/PixelAmbacht/status/1494272370076536840
+﻿[![Tweet](snap-tweet-PixelAmbacht-1494272370076536840.png)](https://twitter.com/PixelAmbacht/status/1494272370076536840)
 
 A year ago, damn it. Okay, hello everyone! Johnny Slowpoke is here! Today we will throw out Google Fonts from my blog. I used to load the main font (PT Sans) from this service, but it makes almost no sense without cross-domain caching. Frankly speaking, the only point to do this further is if a server on which the site is running is slow, so it is faster to load fonts from Google. 
 

@@ -22,7 +22,6 @@ page_404_title:     "Page Not Found"
 page_404_text:      "I could have deleted it, or something else could happen. You could have typed the link incorrectly, for example."
 likely_tweet:       "Tweet"
 likely_send:        "Send"
-likely_share:       "Share"
 note_plural:
     1: "note"
     2: "notes"

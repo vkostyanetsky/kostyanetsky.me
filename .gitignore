@@ -1,3 +1,7 @@
 # Drafts & raw materials, which are not supposed to be pushed to the repository.
 #
 /pages/**/_DRAFT_*
+
+# This directory contains PyCharm data.
+#
+.idea/

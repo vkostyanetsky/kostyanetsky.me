@@ -1,6 +1,6 @@
 # kostyanetsky.me
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Workflow](https://github.com/vkostyanetsky/kostyanetsky.me/actions/workflows/main.yml/badge.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 There are pages, notes, and other data for my [blog](https://kostyanetsky.me) in English.
 

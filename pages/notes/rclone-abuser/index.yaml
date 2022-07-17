@@ -1,7 +1,6 @@
 ﻿title:          "A Script to Sync With NAS"
 description:    "I posted on GitHub a Python script which I use to sync with NAS using rclone."
 created:        2021-06-07 19:04:48
-changed:        2021-06-07 19:04:48
 tags:
     - done
     - python

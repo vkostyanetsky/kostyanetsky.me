@@ -1,4 +1,4 @@
-﻿title:          "Building This Site on GitHub"
+﻿title:          "Building The Blog on GitHub"
 description:    "I've made a build-and-deploy pipeline for this site on each push to its repository!"
 created:        2021-09-29 22:00:00
 tags:

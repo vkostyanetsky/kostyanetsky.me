@@ -20,4 +20,4 @@ The site parsing code could be added to the configuration itself, but this idea 
 
 Therefore, I wrote a Python console application that regularly parses published exchange rates to a special database and sends them through a REST service. We deployed this application on our server, and I added only regular requests to the service on FirstBit ERP side.
 
-Have a [look](https://github.com/vkostyanetsky/CurrencyRatesCrawler) at project's code on my GitHub.
+Have a [look](https://github.com/vkostyanetsky/CurrencyRatesCrawler) at project's backend code on my GitHub.

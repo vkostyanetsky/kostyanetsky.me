@@ -10,6 +10,8 @@ We were required to make it so that they could simply send suppliers links to a 
 
 The platform's web interface could not be used due to license savings. Therefore, I wrote a React.js web application that works with the 1C:Enterprise database through a REST interface specially designed for this.
 
+Have a [look](https://github.com/vkostyanetsky/RFQ) at project's demo on my GitHub.
+
 ## UAC Currency Rates Crawler
 
 <span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">1C:Enterprise</span> <span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">Flask</span> <span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">MongoDB</span>

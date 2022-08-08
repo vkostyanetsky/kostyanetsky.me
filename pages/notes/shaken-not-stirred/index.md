@@ -22,7 +22,7 @@ As a result, a part of description will be erased, and it's good if the related 
 
 Conclusion? Well, you can write a helper method that will take the document type and the name of **one** table part as input. The helper will add items to the SupportedTypes map and ensure that the data already added is not lost.
 
-However, if you need a better solution, then consider to do as I wrote at the beginning of this note: split the method into auxiliary methods. One method contains description for one document only (for all it's tabular sections). Something like:
+However, if you need a better solution, then consider doing as I wrote at the beginning of this note: split the method into auxiliary methods. One method contains description for one document only (for all its tabular sections). Something like:
 
     Procedure AddOpeningBalancesEnteringDocument(SupportedTypes)
 
@@ -36,4 +36,4 @@ However, if you need a better solution, then consider to do as I wrote at the be
 
     EndProcedure
 
-What we get here? Firstly, nobody will accidentally erase the description of the document. Secondly, SonarQube will be pleased: it is highly likely to begin swearing at repeating literals with the names of tabular parts, if the helper is implemented instead of code splitting.
+What do we get here? Firstly, nobody will accidentally erase the description of the document. Secondly, SonarQube will be pleased: it is highly likely to begin swearing at repeating literals with the names of tabular parts, if the helper is implemented instead of code splitting.

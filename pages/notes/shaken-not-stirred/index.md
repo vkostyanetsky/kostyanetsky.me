@@ -32,7 +32,7 @@ However, if you need a better solution, then consider doing as I wrote at the be
         TabularSections.Add("VendorAccounts");
         TabularSections.Add("PayrollDeductions");
 
-        SupportedTypes["Document.Requisition"] = StrImplode(TabularSections, ",");
+        SupportedTypes["Document.Requisition"] = StrConcat(TabularSections, ",");
 
     EndProcedure
 

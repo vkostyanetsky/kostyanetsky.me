@@ -23,3 +23,15 @@ The site parsing code could be added to the configuration itself, but this idea 
 Therefore, I wrote a Python console application that regularly parses published exchange rates to a special database and sends them through a REST service. We deployed this application on our server, and I added only regular requests to the service on FirstBit ERP side.
 
 Have a [look](https://github.com/vkostyanetsky/CurrencyRatesCrawler) at project's backend code on my GitHub.
+
+## Native Data History for FirstBit ERP
+
+<span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">1C:Enterprise</span>
+
+I replaced the BSP versioning subsystem In the FirstBit ERP configuration with a platform's built-in mechanism that solves the same problem. The project included:
+
+1. An algorithm for migrating the accumulated data history from information registers to the native storage.
+2. A data processor to turn on and off the history for objects and their attributes. An early version can be [viewed](https://github.com/vkostyanetsky/AuditLogSettings) on GitHub.
+3. A data processor capable of displaying changes in different objects for a specified period in one list.
+4. Analysis of configuration objects (it was needed to turn off the data history for objects that do not make sense to version – non-shared 1cFresh objects, service catalogs, and so on).
+5. Improvements for the algorithm of unloading the infobase into XML files and loading from them to make it work with native data history.

@@ -2,11 +2,11 @@
 
 Look at this cuteness:
 
-![All done. The future is yours.](all-done.png) ![All clear.](all-clear.png)
+![All done. The future is yours.](all-done.png)
 
 Why do we need psychotherapists at all?
 
-![You're up to date. Go forth and do great things.](up-to-date.png) ![Done and done.](done-and-done.png)
+![You're up to date. Go forth and do great things.](up-to-date.png)
 
 Or this:
 

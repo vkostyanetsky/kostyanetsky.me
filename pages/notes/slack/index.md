@@ -1,4 +1,4 @@
-﻿Slack, of course, is a thing to scold. For being slow, for having bugs, for notifications. But I just love his stubs in case there are no new messages.
+﻿Slack, of course, is a thing to scold. For being slow, for having bugs, for notifications. However, I just love his stubs in case there are no new messages.
 
 Look at this cuteness:
 

@@ -10,6 +10,6 @@ You didn't guess, the correct answer is OPPORTUNITY.
 
 Where'd I digress? Yeah, a product line. It contains a product, a VAT rate, and a unit of measure. All three entities are completely independent: each has a separate table with auxiliary information and its own unique identifier. It is logical to assume that identifiers are stored in the product line: product ID, VAT rate ID, and unit ID.
 
-Well, yes, but no. The product field actually contains ID, but for the VAT rate field it's the rate value. What's for the unit of measure? Well, it contains the measurement code 🤷‍♂️
+Well, yes, but no. The product field actually contains ID, but for the VAT rate field it's a rate value. What's for the unit of measure field? Well, it contains a measurement code 🤷‍♂️
 
 Database normalization? What? What does it mean? Get lost, bro, you're distracting us from work.

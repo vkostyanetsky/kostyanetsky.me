@@ -12,4 +12,4 @@ Where'd I digress? Yeah, a product line. It contains a product, a VAT rate, and 
 
 Well, yes, but no. The product field actually contains ID, but for the VAT rate field it's a rate value. What's for the unit of measure field? Well, it contains a measurement code ¯\\_(ツ)\_/¯
 
-Database normalization? What? What does it mean? Get lost, bro, you're distracting us from work.
+Database normalization? What? What does it mean? Back off, man, you're distracting us from work.

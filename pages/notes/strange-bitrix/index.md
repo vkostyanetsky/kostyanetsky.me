@@ -1,4 +1,4 @@
-﻿The more I explore the Bitrix24 REST interface, the more I am amazed at how different its developers mindsets are.
+﻿The more I explore the Bitrix24 REST interface, the more I am amazed at how different its developers mindsets are. It is expressed in different ways.
 
 Let's take, for example, the interface of deals and product rows related to them. There is no amount field in the table of the products: like, you need the amount for each line – count it yourself, that's it. However, there is the amount field at the document level! Can you guess what the field is named?
 

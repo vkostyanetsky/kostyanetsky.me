@@ -2,10 +2,9 @@ name: Build & Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   pull_request:
-    branches: [ main ]
-    
   workflow_dispatch:
 
 jobs:
@@ -20,28 +19,35 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.9
+          python-version: 3.10.9
 
-      - name: Clone builder repository
-        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/BlogBuilder.git" --branch main --single-branch builder
+      - name: Clone bloget repository
+        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/Bloget.git" --branch main --single-branch bloget
 
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r builder/requirements.txt
+          pip install -r bloget/requirements.txt
 
-      - name: Clone project repository
-        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/kostyanetsky.me-static.git" --branch master --single-branch project
+      - name: Clone static repository
+        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/kostyanetsky.me-static.git" --branch master --single-branch static
+
+      - name: Clone skin repository
+        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/kostyanetsky.xx-skin.git" --branch main --single-branch skin
+
+      - name: Install bloget
+        run: pip install -e .
+        working-directory: bloget
 
       - name: Generate static pages
-        run: python builder/builder.py --input . --output project --config config.yaml
+        run: bloget build --output=static --skin=skin
 
       - name: Set git config and add changes
         run: |
           git config --global user.email "${GITHUB_ACTOR}@https://users.noreply.github.com/"
           git config --global user.name "${GITHUB_ACTOR}"
           git add --all        
-        working-directory: project
+        working-directory: static
         
       - name: Push and send notification
         run: |
@@ -49,6 +55,6 @@ jobs:
           git diff-index --quiet --cached HEAD -- && echo "No changes!" && exit 0 || echo $COMMIT_MESSAGE
           git commit -m "${COMMIT_MESSAGE}"
           git push
-          TELEGRAM_MESSAGE="You have successfully updated kostyanetsky.me!"
+          TELEGRAM_MESSAGE="You%20have%20successfully%20updated%20kostyanetsky.me%21"
           curl "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage?text=$TELEGRAM_MESSAGE&chat_id=${{ secrets.TELEGRAM_CHAT_ID }}"
-        working-directory: project
+        working-directory: static

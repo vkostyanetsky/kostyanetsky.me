@@ -1,0 +1,5 @@
+﻿Usually the idea of developing is simple: the faster it works, the better. For example, the more requests an application manages to execute per unit of time, the faster the task for which these requests are needed will be solved.
+
+However, it also happens the other way around: you need to reduce the number of operations that a program is able to perform. Let's imagine we exchange data with an external service and it bans if we hit it with requests too often. For example: the cloud version of [Bitrix24](https://bitrix24.net) requires sending requests to it no more than two per second.
+
+Here is an [implementation](https://github.com/vkostyanetsky/OutgoingRequestsLimiter) of such a slowdown, which I wrote last week. There is no queue support; the main solved problem is to execute as many requests as possible without going beyond the limit (taking into account the fact that requests can be made from different sessions).

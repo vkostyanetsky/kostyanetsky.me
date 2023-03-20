@@ -4,10 +4,10 @@ For example, I recently celebrated the company's 10th anniversary with colleague
 
 ![Photo from the club website to make it clearer.](topgolf.jpeg)
 
-There are warnings on the walls: jump into the net of your own free will and pay <abbr title="About two hundred thousand rubles at this moment.">ten thousand dirhams</abbr>. Recording this heroic leap of faith on camera is fine as well, just prepare five thousand more.
+Why are you talking about this, you ask? Well, there are warnings on the walls: jump into the net of your own free will and pay <abbr title="About two hundred thousand rubles at this moment.">ten thousand dirhams</abbr>. Recording this heroic leap of faith on camera is fine as well, just prepare five thousand more.
+
+Do you feel the smell of a good history? 
 
 Another example: once flew to Turkey to rest and decided, just in case, to look through the rules of the airline (what can be taken on board, what can not). Among the list of items prohibited from being carried on board, I found “steel spear” and “steel flail” 😬
-
-People have interesting jobs, I may say! I even became envious for a second.
 
 UPD: Another great [example](soundproof.jpeg) from somewhere on the Internet.

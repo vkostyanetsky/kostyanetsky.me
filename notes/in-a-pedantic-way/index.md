@@ -1,4 +1,4 @@
-﻿The daily award for most philosophical code goes to the author of this elegant way to check that two boolean variables are not equal to each other:
+﻿The daily award for the most philosophical code goes to the author of this elegant way to check that two boolean variables are not equal to each other:
 
     If DataStructure.Property("AmountVATIn")
         And ((DataStructure.AmountVATIn And NOT SearchPriceIncludesVAT)

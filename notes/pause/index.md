@@ -1,4 +1,6 @@
 ﻿> An important detail: the CallPause method is not available in a client-server call; when a client calls a server method in which CallPause is called, the exception "Cannot call the CallPause method in a client-server call" will be thrown.
+>
+> [CallPause Method](https://wonderland.v8.1c.ru/blog/metod-vyzvatpauzu/) (RU)
 
 A strange restriction, to be frank. On the one hand, an experienced developer will not make an intentional pause in a client-server call anyway; on the other hand, whoever wants to make it will make it there anyway (by checking the time in the cycle, for example). Does security by obscurity worth the efforts?
   

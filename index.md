@@ -4,4 +4,4 @@ My specialization is the 1C:Enterprise platform: I have more than ten years of e
  
 Currently, I'm working on [FirstBIT ERP](https://firstbit.ae). It is a company management system (sales, purchasing, production, human resources, accounting, you know this stuff) designed for the United Arab Emirates.
 
-I live in Tbilisi. Married, raising a daughter. Secretly have a passion for cycling and video games.
+I live in Tbilisi. Married, raising a daughter. Secretly have a passion for walking and video games.

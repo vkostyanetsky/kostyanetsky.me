@@ -1,0 +1,6 @@
+﻿title:          "Request Rheostat"
+description:    "Code that limits the number of requests sent from the 1C:Enterprise infobase."
+created:        2023-05-27 13:20:05
+tags:
+    - 1c
+    - bitrix

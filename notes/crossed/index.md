@@ -14,7 +14,7 @@ Well, I'm taking a look:
 - Reunion: yes
 - Romania: yes (with registration) (but be afraid of Dracula)
 
-I don’t know how else to explain this cemetery.
+I don’t know how else I can explain this cemetery.
 
 UPD: Found the answer. Grave crosses mean you have to pay $700 to register.
 

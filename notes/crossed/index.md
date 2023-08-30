@@ -2,7 +2,7 @@
 
 The feature is regulated differently everywhere: somewhere it just works, but somewhere registration is possible or even required.
 
-Well, I'm taking a look:
+Well, let's take a look:
 
 ![Screenshot](twilio.png)
 

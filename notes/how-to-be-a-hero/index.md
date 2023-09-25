@@ -2,6 +2,6 @@
 
 What's funny, you ask? Well, I involuntarily remembered [Mista](https://forum.mista.ru). Among 1C developers, this is synonymous with the word “toxicity”: if you ask anything there, you get a bucket of slop by the collar instead of an answer. Here, of course, everything is not so neglected, but holy crap! These persistent guys who referring to the 14-page manual made me laugh a lot.
 
-One thing is good: by the end of the thread, there appeared a brave rebel who simply named the required parameter for the decorator.
+One thing is good: by the end of the thread, there appeared a brave rebel who just answered the question. They, like, named the required parameter for a FastAPI method's decorator, which is not supposed to be shown in the documentation. No links — could you imagine?
 
 Not all heroes wear capes, I would say.

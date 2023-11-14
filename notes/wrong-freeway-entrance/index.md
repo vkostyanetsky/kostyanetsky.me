@@ -1,6 +1,6 @@
 ﻿> Have you ever taken the wrong freeway entrance? You need to drive to the next exit to turn around, but you hate every inch of travel because you're going away from your goal.
 
->*― Andy Weir, The Martian*
+>*― Andy Weir, "The Martian"*
 
 Programmers have exactly the same emotions when they spend a long time working on something. They suddenly realize that part of it should be designed differently. Moreover, this is exactly what you have to do since it solves several problems at once. This is where technical debt is born. 
 

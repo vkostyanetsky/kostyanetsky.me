@@ -1,0 +1,7 @@
+﻿The [Obsidian ](https://obsidian.md/) developers recently approved one of my TypeScript pet plugins — [Fastimer](https://github.com/vkostyanetsky/ObsidianFastimer). It is an intermittent fasting tracker that adds a new code block to your vault: you enter the start date of the fasting interval and get the date of its finish, the time until this moment, and a list of the zones to be passed.
+
+The block shows an up-to-date picture every time Obsidian renders it, which means you can monitor your progress in real time. When a fasting window ends, you can enter the end date, and the code block will show the result: whether you managed to achieve the goal, how much time you fasted beyond the plan, and so on.
+
+I'm thinking of improving the visual part a bit (currently, everything is displayed as plain text without any design). In addition, I want to add functions for calculating statistics so that you can draw cute graphs like [Charts ](https://charts.phib.ro/Meta/Charts/Charts+Documentation) and show achievements. I already made the same in implementing the same [application](https://github.com/vkostyanetsky/Fastimer) in Python, but I’m unlikely to return to it — it’s easier to solve the task in the Obsidian vault than to roll out an additional utility.
+
+In short, check out the plugin! :) You can find it by name (Fastimer) in the Obsidian library, or install it manually from the repository.

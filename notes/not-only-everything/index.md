@@ -1,4 +1,4 @@
-﻿This developers' commentary in the platform documentation for the WriteJSON() method of XDTOSerializer is enviably deep, I would say:
+﻿This commentary in the documentation for the WriteJSON() method of XDTOSerializer is enviably deep, I would say:
 
 ![Not only everyhing](write-json.jpg)
 

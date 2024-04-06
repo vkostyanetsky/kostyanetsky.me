@@ -1,6 +1,6 @@
 ﻿Among our projects, we have one where two systems are communicating with each other: ERP and CRM. Data exchange is done well: a push'n'pull server has been set up, subscriptions to events have been registered, a REST API has been implemented, and so on. There are many other fascinating technical details, but I'm not talking about that now.
 
-The exchange has various logic chains inside. For instance, if a new company appears in CRM, it sends the data to ERP. The other day, a problem appeared with this: a company was not sent from the CRM, no matter how many times you tried to write it. So we went to investigate, suspecting the worst: CRM is written in PHP (nothing personal; it’s just not our technical stack), and there’s a lot of different legacy stuff there. It's easier to shoot yourself in the foot than to blow your nose.
+The exchange has various logic chains inside. For instance, if a new company appears in CRM, it sends the data to ERP. The other day, a problem appeared: a company was not sent from the CRM, no matter how many times you tried to write it. So we went to investigate, suspecting the worst: CRM is written in PHP (nothing personal; it’s just not our technical stack), and there’s a lot of different legacy stuff there. It's easier to shoot yourself in the foot than to blow your nose.
 
 However, it didn't take much digging. We opened the company’s page in CRM and saw that he had the “Do Not Export To ERP” checkbox, which, in fact, blocked the sending. A manager made an obvious mistake.
 

@@ -33,7 +33,7 @@ jobs:
         run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/kostyanetsky.me-static.git" --branch master --single-branch static
 
       - name: Clone skin repository
-        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/kostyanetsky.xx-skin.git" --branch main --single-branch skin
+        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/BlogetSkin.git" --branch main --single-branch skin
 
       - name: Install bloget
         run: pip install -e .

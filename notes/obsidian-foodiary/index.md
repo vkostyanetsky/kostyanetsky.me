@@ -1,4 +1,4 @@
-﻿Following [my first plugin](/notes/obsidian-fastimer/) for Obsidian, I released [the second one](https://github.com/vkostyanetsky/ObsidianFoodiary) a couple of weeks ago. Counts calories, proteins, fats, and carbohydrates in food. It helps not to overeat out of nowhere — it’s rather difficult to judge by eye how much you’ve eaten today and whether you can afford that donut.
+﻿Following my [first](/notes/obsidian-fastimer/) plugin for Obsidian, I released [the second one](https://github.com/vkostyanetsky/ObsidianFoodiary) a couple of weeks ago. Counts calories, proteins, fats, and carbohydrates in food. It helps not to overeat out of nowhere — it’s rather difficult to judge by eye how much you’ve eaten today and whether you can afford that donut.
 
 In short, a useful thing if you:
 

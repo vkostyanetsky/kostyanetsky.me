@@ -1,4 +1,4 @@
-﻿One query more, one query less — it doesn’t matter, people often say. Like, the main thing is that the query must be cheap: it doesn’t read too much, gets into the index, and so on.
+﻿One query more, one query less — it doesn’t matter, people often say. Like, the main thing is that the query must be cheap: it doesn’t read too much, uses index, and so on.
 
 This point of view makes sense, but mindlessly machine-gunning queries is a dangerous idea. Even if everything looks good at the moment, the system may change slightly in the future. And then a seemingly harmless patch will burn your production server to the ground right on Friday.
 

@@ -1,0 +1,5 @@
+﻿I made another [Obsidian](https://obsidian.md) plugin, this time for [daily notes](https://help.obsidian.md/Plugins/Daily+notes). Draws a nice report: what tasks I worked on, what I did, and how much time I spent. I tried to describe how it works in the [repository](https://github.com/vkostyanetsky/ObsidianTimesheet); will be glad to receive any feedback!
+
+Funny thing: for the examples in the README, I used issues like FBI-1, FBI-2, and so on. This is not a reference to the X-Files or Twin Peaks — it's just the first prefix that came to mind. The fact is that our internal project for the development of FirstBit ERP is called First Bit Internal, abbreviated as FBI :) The main pool of tasks we are working on is created and tracked in it.
+
+We’re already used to it, but our colleagues outside the company always find our screenshots from JIRA or SonarQube amusing.

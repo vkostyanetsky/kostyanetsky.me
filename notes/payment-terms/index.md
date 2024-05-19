@@ -12,7 +12,7 @@ Welp, let's go find out. We saw something like this:
 
 ![825701 records](payment-terms.png)
 
-What do we have here? Instead of taking two or three stages of payment for an order, ERP receives almost a million! How this could be possible?
+What do we have here? Instead of taking two or three stages of payment for an order, ERP reads almost a million! How this could be possible?
 
 It turned out that the problem was with those purchase orders that were not related to customer orders at all. The developer considered that the logic for them could not be changed: the customer’s order ID is empty and the query will not find payment stages for this ID. This means that the same result will be obtained as if there were no query at all. And an extra query — well... One query more, one query less... Not a big deal.
 

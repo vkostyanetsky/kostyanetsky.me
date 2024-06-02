@@ -1,0 +1,7 @@
+﻿I came across a [good text](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/) about the main problem that UUID brings with itself. It is also relevant for 1C: all platform reference objects (catalog items, documents, and so on) have their own UUID. They are stored in a database, actively used in searches, and, of course, extensively indexed (with all the ensuing consequences).
+
+1C tries to suppress the issue by creating consistent UUIDs. It may not be perfect, but overall, this thing works, and the indexes turn out to be more or less compact. In general, the community has been talking about this for a long time: for example, the old [thread on Mista](https://forum.mista.ru/topic.php?id=801986) (though the conversation here quickly turned into a chicken coop, and out of six dozen comments, at most one and a half are on point).
+
+P.S. The remark about the probability of creating two identical UUIDs in one database made me laugh:
+
+> As an aside, for those worried about collisions: you should take up the lottery, since winning the jackpot twice in a row is a much more likely outcome than your system ever generating two identical random 128 bit numbers.

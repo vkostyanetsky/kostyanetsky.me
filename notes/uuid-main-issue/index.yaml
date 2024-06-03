@@ -3,3 +3,4 @@ description:    "About the problem that UUID brings with itself."
 created:        2024-06-02 23:18:48
 tags:
     - 1c
+    - pgsql

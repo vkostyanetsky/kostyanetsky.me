@@ -19,10 +19,6 @@ rss:                "RSS"
 edit_page:          "Found a typo? Edit me!"
 page_404_title:     "Page Not Found"
 page_404_text:      "I could have deleted it, or something else could happen. You could have typed the link incorrectly, for example."
-note_plural:
-    1: "note"
-    2: "notes"
-    5: "notes"  
 months:
     "01": "January"
     "02": "February"

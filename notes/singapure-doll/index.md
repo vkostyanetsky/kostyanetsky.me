@@ -6,4 +6,4 @@ I'm currently looking at the [website](https://www.sama.gov.sa/en-US/FinExc/Page
 
 For your information, the first option breaks the website, and the second one pedantically displays “1” for any date.
 
-Another funny thing: colleagues seem to store currency names as 14-character strings. Otherwise, it is difficult to explain why, according to their data, Canada uses not the Canadian dollar but CANADIAN DOLLA, and Romanians use NEW ROMANIAN L instead of the leu. However, these two are rather lucky: Singapore, for example, conducts payments in SINGAPORE DOLL.
+Another funny thing: colleagues seem to store currency names as 14-character strings. Otherwise, it is difficult to explain why, according to their data, Canada uses not the Canadian dollar but CANADIAN DOLLA, and Romania uses NEW ROMANIAN L instead of its leu. However, these two are rather lucky: Singapore, for example, conducts payments in SINGAPORE DOLL.

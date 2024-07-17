@@ -3,3 +3,5 @@
 However, it also happens the other way around: you need to reduce the number of operations that a program is able to perform. Let's imagine we exchange data with an external service and it bans if we hit it with requests too often. For example: the cloud version of [Bitrix24](https://bitrix24.net) requires sending requests to it no more than two per second.
 
 Here is an [implementation](https://github.com/vkostyanetsky/OutgoingRequestsLimiter) of such a slowdown, which I wrote last week. There is no queue support; the main solved problem is to execute as many requests as possible without going beyond the limit (taking into account the fact that requests can be made from different sessions).
+
+The problem is solved through a constant that stores the date for the current second and the number of requests that have already been sent. Clients who run into a limitation are waiting. This approach is not suitable for high-loaded systems, but otherwise it can come in handy.

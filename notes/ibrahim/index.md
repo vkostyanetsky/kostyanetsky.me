@@ -3,7 +3,7 @@
 1. First, I need to calibrate. I handle a dozen tech stacks that have different tool sets and concepts of beauty. This, of course, is a great development, but it distorts the perspective: I am drawn to solve the next problem, starting with minor technical things, simply because I am good at it. Meanwhile, if you look at the problem a little from above, think about it, and draw some diagrams, you will get a better or at least more meaningful solution. So I want to convince myself to do this more often.
 2. Secondly, I need to learn how to write clear documentation for developers. In practice, I rarely get around to it, and when I do, I don’t have time to keep it up-to-date. In short, time is short, and I would at least like to do the paperwork somehow so that the reader grasps the idea more quickly.
 
-The course itself is made in iterations: every week you are told about the same project that the main character of the story, Ibrahim, is trying to design (that’s him on the landing page in the link above). Every week, there are more and more problems with this project, and the solutions that dude comes up with become more and more intricate.
+The course itself is made in the shape of iterations: every week you are told about the same project that the main character of the story, Ibrahim, is trying to design (that’s him on the landing page in the link above). Every week, there are more and more problems with this project, and the solutions that dude comes up with become more and more intricate.
 
 In addition, students are regularly assigned homework for another project with similar issues. It needs to be analyzed and designed again and again, taking into account the new knowledge and limitations gained over the past week.
 

@@ -2,7 +2,7 @@
 
 ![Memory updated](memory-updated.jpg)
 
-Every time I see it, it makes me smile because it instantly reminds me of The Walking Dead and the meme "Clementine will remember that." In that game, the characters surrounding the protagonist would remember his decisions, and it would influence their behavior. This included Clementine — a girl the main character saved at the beginning of the game.
+Every time I see it, it makes me smile because it instantly reminds me of The Walking Dead and the meme “Clementine will remember that”. In that game, the characters surrounding the protagonist would remember his decisions, and it would influence their behavior. This included Clementine — a girl the main character saved at the beginning of the game.
 
 ![Clementine will remember that](remember.jpeg)
 

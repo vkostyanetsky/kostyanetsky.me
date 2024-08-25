@@ -1,4 +1,4 @@
-﻿I needed to quickly generate some images for a pet project. I grabbed the first tool at hand — WaifuDiffusion (a clone of StableDiffusion, but trained specifically on anime and manga).
+﻿I needed to quickly generate some images for a pet project. I grabbed the first tool at hand — [WaifuDiffusion](https://huggingface.co/hakurei/waifu-diffusion) (a clone of [StableDiffusion](https://huggingface.co/stabilityai/stable-diffusion-3-medium), but trained specifically on anime and manga).
 
 Prompt: 
 

@@ -1,0 +1,5 @@
+﻿I remember how amazed I was when I worked with window functions in PostgreSQL for the first time. You can adjust the calculation window for each row individually! And even segment it in advance. And all this is done natively, within a regular query, no extra add-ons needed. The standard aggregation with grouping and subqueries that I was used to in 1C suddenly turned into a pumpkin, just like Cinderella's carriage at midnight.
+
+Recently, I’ve been learning Blender, and I suddenly felt the same excitement for the same reason. The fact that you can freely move objects around the 3D Viewport with the Move command was clear from the start, fine. However, when it hit me that each object is a set of polygons, and that each polygon can also be moved freely, leading to a natural reshaping of the object's geometry — that’s when it really got me.
+
+Technology is amazing. Learning is awesome. Moments like these make me want to keep doing it over and over again :)

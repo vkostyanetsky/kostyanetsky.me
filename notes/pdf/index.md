@@ -1,4 +1,4 @@
-﻿I get a ticket: the client can’t log into the customer portal. I check the database — the account is fine. So what’s the problem? I check the login and see a strange sight:
+﻿I get a complaint: a client can’t log into our customer portal. I check the database — the account is fine. So what’s the problem? I check the login and see a strange sight:
 
 ![PDF](pdf.png)
 

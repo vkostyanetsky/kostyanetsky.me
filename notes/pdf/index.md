@@ -2,7 +2,7 @@
 
 ![PDF](pdf.png)
 
-Above is what’s in the database, and below is what the user entered. My first thought: how on earth did a document end up in the string? :D
+Above is what the user entered, and below is what’s in the database. My first thought: how on earth did a document end up in the string? :D
 
 I’ll skip the further investigation. The key here is asking the right questions (otherwise, both Google and AI will be thinking about the popular file format, not the symbol). So, PDF in the context of Unicode means Pop Directional Formatting! It’s a symbol that controls text direction; it’s needed, for example, to properly render Arabic (which can contain both left-to-right and right-to-left text). The user obviously enters the login in RTL mode (or copies it from somewhere), and the portal does not understand this nuance.
 

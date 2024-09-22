@@ -2,7 +2,7 @@
 
 The Georgian language is beautiful, but I haven’t gotten around to learning it yet. I sigh and suggest we switch to English or Russian.
 
-The girls frown a little. Then one of them digs into her bag, pulls out a flyer, points to it, gives me a thumbs up like, “Cool stuff!” — and hands it to me. 
+The girls frown a little. Then one of them digs into her bag, pulls out a flyer, points to it, gives me a thumbs up like, “cool stuff!” — and hands it to me. 
 
 Then they laugh and run off.
 

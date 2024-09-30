@@ -5,3 +5,5 @@ It’s always fascinating to see how the AI reasons, jokes, and generally tries 
 ![Carrot](carrot.jpg) ![Fists](fists.jpg) ![Jokes](joke.jpg)
 
 The answer below made me smile. Even leaving philosophy aside — looks like Skynet is off the table! :) Though, I’m afraid the future from the [SOMA](https://store.steampowered.com/app/282140/SOMA/) ending is still possible.
+
+![Love](love.jpg)

@@ -4,6 +4,6 @@ These measurements were recorded in the ship's journal, which was also called a 
 
 Or take "bug" — well, you’ve probably heard about this one. A moth, which messed with a computer’s operation over seventy years ago, was documented in the log as "the first actual case of a bug being found". The insect gained a kind of digital immortality: now any mistake, especially in a program, is called a bug.
 
-It’s just a pity that it wasn’t a prettier insect — like a butterfly, for instance? That would’ve added a touch of romance to our work.
+(It’s just a pity that it wasn’t a prettier insect — like a butterfly, for instance? That would’ve added a touch of romance to our work)
 
-Though, if you think about it... maybe "bug" isn’t such a bad option after all. "Butterfly" is a bit too long. Besides, someone would’ve shortened it to "butt," and right now, we’d be fixing butts instead of bugs.
+(Though, if you think about it... maybe "bug" isn’t such a bad option after all. "Butterfly" is a bit too long. Besides, someone would’ve shortened it to "butt," and right now, we’d be fixing butts instead of bugs)

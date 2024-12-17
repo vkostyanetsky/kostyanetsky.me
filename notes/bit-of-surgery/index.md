@@ -6,7 +6,7 @@ While we were knee-deep in troubleshooting, I had this thought: sure, it doesn�
 
 **P.S. Nerdy details for the curious.** During the migration, the permissions for the server cache folder didn’t transfer properly. This led to a funny (well, not so funny) effect: the logs would happily land there, but session data wouldn’t.  
 
-So, when someone opened a print form, the configuration tried saving it to the storage, and rphost, in turn, attempted to shove it into the session cache. Here’s where things went sideways: the worker' process (probably) got slapped on the wrist by the OS. Due to (apparently) some funky file system event handling in the platform, the exception wasn’t caught, so the poor thing had no better idea than to kill the session on the server. Naturally, this caused the client process to crash.  
+So, when someone opened a print form, the configuration tried saving it to the storage, and rphost, in turn, attempted to shove it into the session cache. Here’s where things went sideways: the worker' process (probably) got slapped on the wrist by the OS. Due to (apparently) some funky file system event handling in the platform, the exception wasn’t caught, so the poor thing had no better idea than to kill the session. Naturally, this caused the client process to crash.  
 
 We fixed the permissions, rebooted the cluster, and voilà! The problem was gone.  
 

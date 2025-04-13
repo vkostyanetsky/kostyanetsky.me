@@ -7,7 +7,7 @@ own room."
 >
 > "Hello! Hello!" he shouted. He shook the receiver and then blew into it. Still, there was no dial tone.
 >
-> "The phone's broken," he explained to Hottabych. "FU unscrew the receiver and see what's wrong."
+> "The phone's broken," he explained to Hottabych. "Let's unscrew the receiver and see what's wrong."
 >
 > However, despite all his efforts, he could not unscrew it.
 >

@@ -6,4 +6,4 @@ I write and speak in Russian. By the way, this website has a [mirror](https://ko
  
 Currently, I'm working on [FirstBIT ERP](https://firstbit.ae). It is a company management system (sales, purchasing, production, human resources, accounting, you know this stuff) designed for the United Arab Emirates.
 
-I live in Tbilisi. Married, raising a daughter. Have a passion for walking and video games.
+I live in Moscow. Married, raising a daughter. Have a passion for walking and video games.

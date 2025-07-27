@@ -1,4 +1,4 @@
-﻿I stumbled upon a hefty Infostart [article](https://infostart.ru/1c/articles/2434171/) all about "debunking myths" around the platform. The headline was tabloid a bit, but hey, whatever — I went ahead and gave it a read.
+﻿I stumbled upon a hefty Infostart [article](https://infostart.ru/1c/articles/2434171/) all about "debunking myths" around the platform.
 
 Honestly, about half of it reads like a joke; I can't take it any other way. It's like:
 

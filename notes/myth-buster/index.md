@@ -2,7 +2,7 @@
 
 Honestly, about half of it reads like a joke. It's like:
 
-> Hot off the press! Crime, intrigue, investigations! File‑based infobase is faster than client–server! DCS is slower than a plain request! Calling a server method on the server counts as a brand-new server call! <s>UFO over Red Square!</s>
+> Hot off the press! Crime, intrigue, investigations! File‑based infobase is faster than client-server! DCS is slower than a plain request! Calling a server method on the server counts as a brand-new server call! <s>UFO over Red Square!</s>
 
 Still, there are some genuinely interesting nuggets! For instance, I'd never heard the claim that cramming your code into one single line makes it run ten times faster. Too bad you'd get your ass handed to you by the team for trying that kind of desperate swag before you even get to celebrate the speed boost. And let's be real — most enterprise app slowdowns usually come from totally different places.
 

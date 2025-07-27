@@ -1,6 +1,6 @@
 ﻿I stumbled upon a hefty Infostart [article](https://infostart.ru/1c/articles/2434171/) all about "debunking myths" around the platform.
 
-Honestly, about half of it reads like a joke; I can't take it any other way. It's like:
+Honestly, about half of it reads like a joke. It's like:
 
 > Hot off the press! Crime, intrigue, investigations! File‑based infobase is faster than client–server! DCS is slower than a plain request! Calling a server method on the server counts as a brand-new server call! <s>UFO over Red Square!</s>
 

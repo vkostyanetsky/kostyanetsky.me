@@ -19,7 +19,7 @@ WHERE
     )
 </pre>
 
-Each of these queries was reading around 20GB from the history table. What's happening is mostly clear: the platform is trying to delete an area's data history, but the janky DB query causes a full scan over the whole history table across all areas instead of using an index. Someone on Dmitrovskaya got lazy again.
+Each of these queries was reading around 20GB. What's happening is mostly clear: the platform is trying to delete an area's data history, but the janky DB query causes a full scan over the whole history table across all areas instead of using an index. Someone on Dmitrovskaya got lazy again.
 
 [![Why are you surpised?](why.png)](https://x.com/EffinBirds/status/1945545263407301033)
 

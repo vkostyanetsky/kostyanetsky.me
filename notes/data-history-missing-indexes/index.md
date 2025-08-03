@@ -1,4 +1,4 @@
-A colleague noticed that on one of our Fresh instances, deleting data areas had become painfully slow. Dug into the metrics.
+A colleague noticed that on one of our Fresh instances, deleting data areas had become painfully slow. Dug into the metrics:
 
 <pre>
 DELETE FROM T1

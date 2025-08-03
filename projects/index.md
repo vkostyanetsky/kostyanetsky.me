@@ -1,5 +1,23 @@
 ﻿There are projects I worked on and wanted to write something about. From newest to oldest.
 
+## Integration between FirstBit ERP and Telegram
+
+Now in the ERP it is possible to create Telegram bots that can send messages to private and group chats, as well as receive messages and reply to them.
+
+Incoming messages can be received by them in three ways:
+
+- via periodic polling on a schedule;
+- via continuous polling for new messages;
+- via a webhook.
+
+Bots are able to identify a Telegram user as a company employee in three ways:
+
+- by a pre-specified Telegram username assigned to the employee;
+- if the employee followed a unique link created for them by an administrator;
+- via two-factor authentication (the user messages the bot, it asks for their email and sends an OTP there, which must be entered).
+
+In addition, the notification subsystem in our ERP can now also deliver alerts via Telegram bots.
+
 ## External Web Interface for Suppliers
 
 <span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">1C:Enterprise</span> <span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">React.js</span> <span class="f6 link br3 ph3 pv1 mb2 dib blue bg-lightest-blue">Flask</span>

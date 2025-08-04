@@ -23,7 +23,7 @@ Each of these queries was reading around 20GB. What's happening is mostly clear:
 
 [![Why are you surpised?](why.png)](https://x.com/EffinBirds/status/1945545263407301033)
 
-So we were losing between 30 seconds and a minute and a half per operation. Wanted it faster. Fix:
+So we were losing between 30 seconds and a half an hour per operation. Wanted it faster. Fix:
 
 <pre>
 CREATE NONCLUSTERED INDEX IX_DataHistoryLatestVersions1_MetadataId

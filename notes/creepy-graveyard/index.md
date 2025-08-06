@@ -11,3 +11,5 @@ That said, I'm happy with the result. At this stage, perfectionism feels more li
 That approach works at the very beginning, but it doesn't help you learn how to solve problems. This time, I watched a few lessons back-to-back for about an hour or two, then tried to figure things out on my own. I only went back to the videos when I was completely stuck. Feels like I’m actually retaining a lot more this way.
 
 Long story short, the thing is done. On to the next one!
+
+UPD: One of the founders of FlippedNormals recorded a [video](https://www.youtube.com/watch?v=izkRFqBzya0) with the same thoughts about training.

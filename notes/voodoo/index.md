@@ -21,4 +21,4 @@ We still don't have a clean root cause. We traced it to a specific commit after 
 
 If you landed here from Google because you hit the same mess — make a no-op change to the problematic object so the platform refreshes the metadata IDs in the manifest. For example, add an empty method or even just a space in the module. That fixes the configuration so the recipe at the top stops corrupting the cache.
 
-Voodoo, sure — but hey, it works ¯\_(ツ)_/¯
+Voodoo, sure — but hey, it works ¯\\_(ツ)\_/¯

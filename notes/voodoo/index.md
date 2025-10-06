@@ -10,7 +10,7 @@ Same story with the manager module of one catalog: its methods exist and are exp
 
 [![Welcome To Dipshit Central](welcome.jpg)](https://x.com/EffinBirds/status/1970264357427704080)
 
-As always, when the magic blooms — look at the cache. Clear it and symptoms vanish. There are indirect hints too; in v35/v36:
+As always, when the magic blooms — look at the cache. Clear it and symptoms vanish. There are indirect hints too:
 
 - The enum did exist in v35, but it was renamed in v36.
 - Those manager-module methods didn't exist in v35 (they were added in v36).

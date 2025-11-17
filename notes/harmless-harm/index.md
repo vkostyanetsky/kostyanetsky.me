@@ -15,7 +15,7 @@ WHERE
 
 If we needed to copy rows from the source table into the temp table, we passed TRUE into the parameter; if we wanted the temp table to be empty, we passed FALSE.
 
-Looks neat at first glance, but this trick is a silent performance foot-gun if the table being read is large.
+Looks simple at first glance, but this trick is a silent performance foot-gun if the table being read is large.
 
 The reason is how DB engines work with parameterized queries. Both MS SQL and PostgreSQL build the execution plan based on the query text, and in this example the parameter value does **not** affect the decision of whether the table should be read or not.
 

@@ -6,4 +6,4 @@ Or take "bug" — well, you’ve probably heard about this one. A moth, which me
 
 (It’s just a pity that it wasn’t a prettier insect — like a butterfly, for instance? That would’ve added a touch of romance to our work)
 
-(Though, if you think about it... maybe "bug" isn’t such a bad option after all. "Butterfly" is a bit too long. Besides, someone would’ve shortened it to "butt," and right now, we’d be fixing butts instead of bugs)
+(Though, if you think about it... maybe "bug" isn’t such a bad option after all. "Butterfly" is a bit too long. Someone would’ve shortened it to "butt" and right now, we’d be fixing butts instead of bugs)

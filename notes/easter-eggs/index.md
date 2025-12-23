@@ -1,4 +1,6 @@
-﻿![Thank you, Mario!](mario.jpg) ![Awaiting Signal](mothership.jpg)
+﻿![Thank you, Mario!](mario.jpg)
+
+![Awaiting Signal](mothership.jpg)
 
 A couple of Easter eggs hidden inside FirstBit ERP. They're tucked away for the developers: in the first case, users see just the form title and notification text, while in the second, they see the standard "waiting for connection" message.
 

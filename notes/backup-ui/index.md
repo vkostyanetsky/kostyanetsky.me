@@ -12,4 +12,6 @@ Also, the new solution detects when someone tries to request a backup for an app
 
 And yes — we're still sneaking jokes into the UI. Obviously.
 
-![But Still!](but-still.png) ![Coffee First!](coffee-first.png)
+![But Still!](but-still.png)
+
+![Coffee First!](coffee-first.png)

@@ -2,7 +2,7 @@
 
 How did it work before? I want to link a tweet — I simply insert the link to it. The build script replaces it with an HTML block, then Twitter founds this block and replaces it with the text of the tweet (and some useful links as well). This [commit](https://github.com/vkostyanetsky/BlogBuilder/commit/c21ef8a7bec10672406e6be57b8e734ba3ac01c5) shows you how it worked.
 
-How does it work now? You're right, it does not! Twitter is blocked in Russia, so its javascript works with VPN enabled only.
+How does it work now? You're right, it does not! Twitter is blocked in Russia.
 
 ![Well](well.jpg)
 

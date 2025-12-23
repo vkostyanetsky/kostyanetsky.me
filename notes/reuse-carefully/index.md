@@ -10,7 +10,7 @@ Well, I try to reproduce the bug manually. And there, all of a sudden, everythin
 
 Frankly speaking, I was scratching the back of my head. The document receives this list from the common module with [this code](https://gist.github.com/vkostyanetsky/5ec036ee148606aad9caefbc9305bfb0). An empty ref from here, even theoretically, cannot be obtained. Moreover, the module has the “Reuse Return Values” option ​​enabled, and the function is actually executes once somewhere at the beginning of the test, before all complex data manipulations. So, the test cannot affect it in any way, in theory.
 
-Is it a dead end? Well, experienced colleagues have probably already guessed everything, but I had to dance around the bug  and even check the [standard](https://its.1c.ru/db/v8std/content/724/hdoc), until got the following: **return values ​​cache in 1C can be changed**. I mean, not by calling RefreshReusableValues​​(), but by changing reusable values directly.
+Is it a dead end? Well, experienced colleagues have probably already guessed everything, but I had to dance around the bug  and even check the [standard](https://its.1c.ru/db/v8std/content/724/hdoc), until got the following: **return values ​​cache in 1C can be changed**. I mean, not by calling `RefreshReusableValues​​()`, but by changing reusable values directly.
 
 How? Well, if you get some values ​​from a cached common module, and they are not of a primitive type (string, number, etc.), you will not get the value itself, but a pointer to it somewhere in memory. You write this pointer to a variable and try to change it – you change the cache.
 

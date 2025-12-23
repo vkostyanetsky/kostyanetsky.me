@@ -8,4 +8,4 @@ Still, there are some genuinely interesting nuggets! For instance, I'd never hea
 
 Or take their speed comparison for dumping data into a table: one test for object presentations and another for their descriptions. The presentation dump was literally tens of times slower! On paper, that sounds weird — both are just strings already pulled from the database at measurement time. My guess is it's down to typing: presentation strings can be unlimited length, unlike descriptions. So you get extra memory allocations, helper structures popping up, and bam — that's where the slowdown creeps in.
 
-P.S. I've jotted down some of these points myself before. Off the top of my head — I remember [benchmarking](/notes/is-ref-empty) ValueIsFilled() and getting a nasty surprise from the built‑in [FindByNumber()](/notes/method-with-surprise).
+P.S. I've jotted down some of these points myself before. Off the top of my head — I remember [benchmarking](/notes/is-ref-empty) `ValueIsFilled()` and getting a nasty [surprise](/notes/method-with-surprise) from the built‑in `FindByNumber()`.

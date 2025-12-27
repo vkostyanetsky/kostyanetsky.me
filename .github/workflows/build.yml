@@ -32,19 +32,16 @@ jobs:
       - name: Clone static repository
         run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/kostyanetsky.me-static.git" --branch master --single-branch static
 
-      - name: Clone skin repository
-        run: git clone "https://${{ secrets.ACCESS_TOKEN }}@github.com/vkostyanetsky/BlogetSkin.git" --branch main --single-branch skin
-
       - name: Install bloget
         run: pip install -e .
         working-directory: bloget
 
       - name: Generate static pages
-        run: bloget build --output=static --skin=skin
+        run: bloget build --url=https://kostyanetsky.me --templates=bloget/templates --assets=bloget/assets --output=static
 
       - name: Set git config and add changes
         run: |
-          git config --global user.email "${GITHUB_ACTOR}@https://users.noreply.github.com/"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
           git add --all        
         working-directory: static
@@ -55,6 +52,4 @@ jobs:
           git diff-index --quiet --cached HEAD -- && echo "No changes!" && exit 0 || echo $COMMIT_MESSAGE
           git commit -m "${COMMIT_MESSAGE}"
           git push
-          TELEGRAM_MESSAGE="You%20have%20successfully%20updated%20kostyanetsky.me%21"
-          curl "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage?text=$TELEGRAM_MESSAGE&chat_id=${{ secrets.TELEGRAM_CHAT_ID }}"
         working-directory: static

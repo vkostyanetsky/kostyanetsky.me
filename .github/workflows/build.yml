@@ -37,7 +37,7 @@ jobs:
         working-directory: bloget
 
       - name: Generate static pages
-        run: bloget build --url=https://kostyanetsky.me --templates=bloget/templates --assets=bloget/assets --output=static
+        run: bloget build --url=https://kostyanetsky.me --templates=bloget/templates --public=bloget/public --output=static
 
       - name: Set git config and add changes
         run: |

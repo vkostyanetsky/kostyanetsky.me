@@ -22,6 +22,7 @@ page:                    "Page"
 of:                      "of"
 shown:                   "Shown"
 all:                     "All"
+cover:                   "Cover"
 months:
     "01": "January"
     "02": "February"

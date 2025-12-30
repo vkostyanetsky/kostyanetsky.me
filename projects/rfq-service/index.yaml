@@ -1,0 +1,13 @@
+﻿title:          "RFQ Service"
+description:    "A web application for a trading company, needed for estimating orders from suppliers."
+created:        2022-07-16 00:00:00
+stacks:
+    - typescript
+    - nodejs
+    - react
+    - python
+    - flask
+    - 1c-v8
+    - fb-erp
+options:
+    - no-rss

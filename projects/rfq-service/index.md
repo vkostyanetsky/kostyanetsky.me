@@ -1,83 +1,67 @@
 ﻿## 👀 Situation
 
-A trading company (our client) runs a regular request-for-quotation (RFQ) process. Before placing a customer order, their managers contact several suppliers to get prices, lead times, and terms, then pick the best offer.
+A trading company (the client) runs a recurring request-for-quotation (RFQ) process. Before placing a customer order, the company contacts several suppliers, collects their prices, lead times, and terms, and then selects the most favorable offer.
 
-## 💡 Task
+## 💡 Objective
 
-The problem: suppliers replied in whatever format was convenient for them — some by email, some in WhatsApp, some in Google Sheets. Then a manager had to manually collect all that info and re-enter it into the ERP system.
+The challenge was that suppliers responded in whatever format was convenient for them: some by email, others via WhatsApp, and others in Google Sheets. A manager then had to manually consolidate this information and enter it into the ERP system. This consumed time, introduced errors, and led to disputes such as "did the supplier really send exactly this?".
 
-Result: wasted time, typos, and the classic "Wait… Did the supplier really send that?" debates.
-
-So we decided to build a supplier-facing web app — intentionally super simple (because nobody wants to train suppliers).
+The goal was to establish a more efficient way to collect quotations — without requiring suppliers to be trained to use a complex system.
 
 ## 💪 Actions
 
-We split the solution into two parts:
+We decided to build a dedicated web interface for suppliers to submit quotations. The most obvious implementation path — exposing the ERP web client — was rejected immediately because it would require:
 
-- extending the 1C configuration (create RFQs + receive replies);
-- building the web app (the actual RFQ UI).
+- publishing the ERP to the public internet;
+- creating ERP accounts for all suppliers;
+- purchasing additional client-connection licenses.
 
-**1. The 1C flow**
+Instead, we built the quotation interface as an independent web application. The solution was split into two parts: ERP customization and development of the web application itself.
 
-In 1C, a manager creates a document called `Procurement Requisition` containing three data sets:
+### 1. ERP scenario
 
-- suppliers (who we're sending to);
-- items (what needs pricing);
-- extra questions (terms, deadlines, comments, etc.).
+To start an RFQ, a manager creates a document in the ERP: `Procurement Requisition`. It contains three datasets:
 
-After saving, 1C generates a personal link for each supplier. This link acts like an access token: it's sent only to that supplier, so extra login/password checks would be a bit of security theater.
+- suppliers (who will receive the request);
+- items (what needs to be quoted);
+- additional questions (terms, lead times, comments, and similar fields).
+
+After the document is saved, the ERP generates a personal link for each supplier. The link works as an access token and is sent only to that supplier, making additional identity checks unnecessary.
 
 ![Procurement Requisition](document.png)
 
-On the 1C side, we also implemented an HTTP service that:
+In addition, we implemented an HTTP service in the ERP that can return the data of a `Procurement Requisition` document and accept supplier responses, saving them as a `Response to RFQ` document.
 
-- returns the `Procurement Requisition` data;
-- accepts supplier replies and stores them as `Response to RFQ` documents.
+### 2. Supplier UX
 
-**2. Supplier UX**
+The web application is a simple form where a supplier can enter prices for each line item in the `Procurement Requisition` and answer additional questions from the client (delivery lead time, extra terms, and so on).
 
-To avoid exposing the internal ERP web client to the internet — and to avoid creating supplier accounts inside 1C — we built a separate web application.
+In practice, suppliers rarely complete the form in a single session, so we provided two actions:
 
-In practice it's a straightforward form where a supplier can:
-
-- enter prices per line item from the `Procurement Requisition`;
-- answer extra questions (delivery dates, terms, etc.).
-
-In real life, suppliers rarely finish everything in one go, so we added two actions:
-
-- Save as draft: saves progress. They can reopen the same link later and continue editing. The customer's managers don't see drafts because the quote isn't "official" yet;
-- Submit: final send. After this, the supplier's response becomes visible to managers — and the supplier can't change it (no "oops I meant a different price" after the fact).
+- `Save as draft`: saves the current state of the form. The supplier can reopen the link later and edit the data. The client's managers do not see these values, because the quotation is not considered submitted at this stage.
+- `Submit`: final submission. After this, the supplier's response becomes visible to the client's managers, and the supplier can no longer change the submitted data.
 
 ![UI](ui.png)
 
-Frontend: React, backend: Flask. 
+The frontend is built with React; the backend uses Flask.
 
-The backend works as a proxy between the web app and 1C:
+The backend acts as a proxy between the web application and the ERP. The supplier opens their unique link, and the web application sends that token to the proxy. Using the token, the proxy requests the list of items to be quoted from the ERP and returns it to the web application.
 
-- the web app receives the unique supplier link;
-- sends it to the proxy;
-- the proxy uses that link to fetch the RFQ items from 1C and returns them to the web app.
+With this approach, the web application does not need to know where the ERP is hosted or how to authenticate against it. The same applies to the next step, when the web application sends the quotation results back to the ERP.
 
-With this setup, the web app doesn't need to know where 1C is hosted, how to authenticate to it and how to submit results back.
+![Architecture](schema.png)
 
-![Schema](schema.png)
-
-Yes, the web app could call 1C's HTTP service directly — but the proxy means we don't have to expose 1C interfaces to the public internet. Also, secure authentication between a public web client and 1C would be much more painful. The proxy basically acts like the bouncer at the club: "You can come in, but only through me" :)
+It would have been possible to call the ERP HTTP service directly from the web application, but using a proxy eliminates the need to expose the ERP service to the public internet. It also simplifies secure authentication between the web application and the ERP service.
 
 ## 😎 Result
 
-In the end, RFQ processing turned into an actual pipeline:
+In the end, the RFQ process became a streamlined pipeline:
 
-1. The customer's manager creates an RFQ in 1C (Procurement Requisition);
-2. Sends suppliers their personal links;
-3. Suppliers respond in a clean, simple web UI;
-4. Replies (both draft and final) are stored as `Response to RFQ` documents.
+1. The client's manager creates an RFQ in the ERP;
+2. The manager sends suppliers their personal links;
+3. Suppliers respond through a simple, convenient interface;
+4. Their responses are saved in the ERP (both drafts and final submissions).
 
-Practical impact:
-
-- no more manual merging from email/WhatsApp/Sheets;
-- fewer data-entry mistakes in 1C;
-- faster quote turnaround;
-- and most importantly: no supplier access to the internal 1C environment, no publishing internal components to the internet, no extra 1C licenses, and no supplier account management at all.
+Practical outcomes: manual consolidation across multiple channels was eliminated; data-entry errors decreased; quotations were received faster; and, critically, the solution required no supplier access to the ERP, no public exposure of any ERP interfaces, no additional ERP license costs, and no supplier account management.
 
 A simplified version of the project can be deployed from the [GitHub repository](https://github.com/vkostyanetsky/RFQ).

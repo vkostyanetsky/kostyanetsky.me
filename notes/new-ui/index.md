@@ -6,4 +6,4 @@ And then, you know how it goes... Scope creep grabbed me by the hoodie. First I 
 
 So yeah, it turned into that "Fear and Loathing in Las Vegas" meme. The tendency was to push it as far as I can, kinda.
 
-Now the only thing left is to make myself actually write into the new project log. There's always a ton of work, and it's genuinely interesting — but if I don't write things down… Welp. Everything sinks into coffee.
+Now the only thing left is to make myself actually write into the new project log. There's always a ton of work, and it's genuinely interesting — but if I don't write things down... Welp. Everything sinks into coffee.

@@ -32,8 +32,8 @@ whisper "D:\audio.wav" --model medium --language Russian --output_format txt
 
 The result is a plain text transcript you can shove into any chatbot and get a fairly coherent summary. Sure, you still need to proofread it — fix mistakes and hallucinations, rephrase a couple things — but it's still way better than trying to write notes live.
 
-(If you really want, you can wire up an API call or point it at some local model via [LM Studio](https://lmstudio.ai) — but for my personal setup I decided: nope, that's already too much engineering for a lazy win)
-
 And that’s basically the whole method. The only thing left is writing a simple script so you don’t have to run two commands manually every time. If you’re on Windows and you can't be bothered to vibe-code your own script, you can [grab mine](https://gist.github.com/vkostyanetsky/4f4760097f1b417cc85d71d11662a642) and tweak it.
 
 The script finds the first .mkv in its folder, runs it through ffmpeg + Whisper, and saves the result back into the same folder. If you use it: note that it runs via [CUDA](https://developer.nvidia.com/cuda) (CPU works too, just much slower), and it stores downloaded Whisper models not in the default cache, but inside the current Python virtual environment folder.
+
+(if you really want, you can wire up an API call or point it at some local model via [LM Studio](https://lmstudio.ai) — but for my personal setup I decided: nope, that's already too much engineering for a lazy win)

@@ -1,4 +1,4 @@
-﻿I started recording all my meetings back in 2020 — at least, that’s what my own [notes](/notes/video-recording/) say. Video is always more accurate than memory, and clicking "Start Recording" in OBS is the cheapest way to not lose some random-but-important detail.
+﻿I started recording all my meetings back in 2020 — at least, that’s what my own [notes](/notes/video-recording/) say. Video is always more accurate than memory, and clicking "Start Recording" in [OBS](https://obsproject.com) is the cheapest way to not lose some random-but-important detail.
 
 The downsides are obvious, though: you can't quickly grasp the gist of a meeting from a video, searching through it is basically impossible, it eats disk space like it's bulking season, and it's painfully easy to accidentally capture something private. To partially compensate, I used to jot down key points in bullet form during the meeting, and later either throw them into a task tracker or write a mini-summary for myself: who I met with, what we discussed, what decisions we landed on. If I forgot something or missed details, I'd double-check the video.
 

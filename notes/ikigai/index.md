@@ -4,4 +4,4 @@ A person can have several of those anchors, and they're different for everyone. 
 
 Anyway, that's what got me thinking. I stumbled across a channel called "[Alyoshkino Svoe](https://t.me/aleshkino_svoe)". From what I understand, the guy behind it is a lawyer from St. Petersburg who breeds fancy chickens and regularly posts videos about specific breeds, incubation details, feeding, and so on.
 
-I'm not into birds at all, but I caught myself just sitting there for twenty minutes, completely mesmerized, listening without looking away. It almost works like therapy, honestly. And it struck me that this is actually a pretty solid kind of ikigai: finding something you'll love the way this guy loves his chickens.
+I'm not into birds at all, but I caught myself just sitting there for twenty minutes, completely mesmerized, listening without looking away. It almost works like therapy, honestly. And it struck me that this is actually a pretty solid kind of ikigai: something you'll love the way this guy loves his chickens.

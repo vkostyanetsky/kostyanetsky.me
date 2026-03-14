@@ -1,7 +1,0 @@
-﻿title:          "Non-Unique Metadata"
-description:    "Once again encountered a bug: the platform breaks the data history metadata table."
-created:        2024-06-08 18:28:35
-tags:
-    - 1c
-    - pgsql
-    - mssql

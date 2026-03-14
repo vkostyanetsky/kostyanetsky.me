@@ -1,4 +1,13 @@
-﻿When ChatGPT remembers a detail from a conversation for the future, it displays a "Memory updated" badge above its response. Like, got it:
+---
+title: Clementine Will Remember That
+description: About ChatGPT and one old videogame.
+created: 2024-08-09 23:09:32
+tags:
+- ai
+- videogames
+---
+
+When ChatGPT remembers a detail from a conversation for the future, it displays a "Memory updated" badge above its response. Like, got it:
 
 ![Memory updated](memory-updated.jpg)
 

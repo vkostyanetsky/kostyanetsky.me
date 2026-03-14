@@ -1,4 +1,13 @@
-﻿When you're actively working in daily notes in Obsidian, you often want to quickly peek into the note from yesterday or, conversely, for tomorrow. For example, when sorting today's tasks and wanting to postpone some of them for tomorrow.
+---
+title: Day Switcher for Obsidian
+description: How to make a callout with links to yesterday and tomorrow in daily notes?
+created: 2024-08-17 15:11:48
+tags:
+- obsidian
+- javascript
+---
+
+When you're actively working in daily notes in Obsidian, you often want to quickly peek into the note from yesterday or, conversely, for tomorrow. For example, when sorting today's tasks and wanting to postpone some of them for tomorrow.
 
 I'm too lazy to type the exact date every time, so I wrote a [script](https://gist.github.com/vkostyanetsky/6c70f00b817157f9b6e62ee89bade853) for this. It takes the note's date from its title (expects it to be in <abbr title="2024-08-17, for example.">ISO 8601</abbr> format) and generates a tooltip with links to yesterday's and tomorrow's notes. The day of the week is displayed in the header for additional convenience:
 

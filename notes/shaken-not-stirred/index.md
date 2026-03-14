@@ -1,4 +1,12 @@
-﻿Let's speak a bit about organization of the code. If you need to describe a set of objects with common properties, think about whether this description should be divided into separate methods, each of which intended to describe one specific object?
+---
+title: Shaken, Not Stirred
+description: How to refactor object descriptions?
+created: 2022-08-07 19:04:51
+tags:
+- 1c
+---
+
+Let's speak a bit about organization of the code. If you need to describe a set of objects with common properties, think about whether this description should be divided into separate methods, each of which intended to describe one specific object?
 
 Let's look at this example — a method that describes tabular parts of documents suitable for some task:
 

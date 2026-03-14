@@ -1,4 +1,13 @@
-﻿![Society](drawing.png)
+---
+title: These Nasty Smartphones
+description: As for me, it's a great illustration for an everlasting moan “why do
+  you always stare at your smartphone”.
+created: 2018-03-31 00:00:00
+tags:
+- meanwhile
+---
+
+![Society](drawing.png)
 
 The artist is [Adam Ellis](https://www.patreon.com/adamtots).
 

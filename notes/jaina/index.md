@@ -1,4 +1,13 @@
-﻿Natalia O'Shea has sung a Jaina's song in a Russian version of a trailer for a future update of World of Warcraft. As for me, she's extraordinary good in it — I mean, she knows how to make a proper mood and season a speech with steel.
+---
+title: Beware the Daughter of the Sea
+description: Natalia O'Shea has sung a Jaina's song in a Russian version of a trailer
+  for a future update of World of Warcraft.
+created: 2018-07-29 16:19:10
+tags:
+- videogames
+---
+
+Natalia O'Shea has sung a Jaina's song in a Russian version of a trailer for a future update of World of Warcraft. As for me, she's extraordinary good in it — I mean, she knows how to make a proper mood and season a speech with steel.
 
 https://youtu.be/5j-S448XC8k
 

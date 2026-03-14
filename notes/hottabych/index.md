@@ -1,4 +1,12 @@
-﻿> Returning to Volka's room, the old man turned round slyly, snapped the fingers of his left hand, and there appeared on the wall over the aquarium an exact copy of the telephone hanging in the hall.
+---
+title: The Genie Problem
+description: What do ancient powerful spirits and 3D artists have in common?
+created: 2025-04-12 23:57:12
+tags:
+- 3d
+---
+
+> Returning to Volka's room, the old man turned round slyly, snapped the fingers of his left hand, and there appeared on the wall over the aquarium an exact copy of the telephone hanging in the hall.
 >
 > "Now you can talk to your friends as much as you like without leaving your
 own room."

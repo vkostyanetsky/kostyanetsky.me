@@ -1,4 +1,14 @@
-﻿I like to notice things in the world around me that clearly have a story behind them. In video games, this is called “environmental storytelling”: they don’t tell you the story directly, but if you look around, you can guess which gun was hanging on the wall and who fired from it.
+---
+title: Environmental Storytelling
+description: I like to notice things in the world around me that clearly have a story
+  behind them.
+created: 2023-03-19 15:51:48
+tags:
+- meanwhile
+- work
+---
+
+I like to notice things in the world around me that clearly have a story behind them. In video games, this is called “environmental storytelling”: they don’t tell you the story directly, but if you look around, you can guess which gun was hanging on the wall and who fired from it.
 
 For example, I recently celebrated the company's 10th anniversary with colleagues at a local golf club. Balls had to be sent flying from the second floor; there are no railings for obvious reasons, but a net is stretched in case someone loses their balance.
 

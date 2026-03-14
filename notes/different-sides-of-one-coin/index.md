@@ -1,4 +1,12 @@
-﻿![Hi!](en.png)
+---
+title: Different Sides of One Coin
+description: Feedback is one of the coolest things in my work.
+created: 2018-03-05 00:00:00
+tags:
+- work
+---
+
+![Hi!](en.png)
 
 Feedback is one of the coolest things in my work. It's not my first year of programming and I've written a lot of tools, mechanics and interfaces. However, ever complicated mechanism working as it should is… I don't know. It's like hearing “yes” on a graduation party, again and again :-)
 

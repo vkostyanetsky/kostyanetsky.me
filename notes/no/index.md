@@ -1,4 +1,13 @@
-﻿![No](no.jpg)
+---
+title: 'No'
+description: On the succinctness of the refusal to connect to the 1C server database.
+created: 2025-06-11 19:29:33
+tags:
+- 1c
+- work
+---
+
+![No](no.jpg)
 
 This is the message the current platform throws up when you try to connect to an offline server cluster. I do appreciate minimalism in interfaces, of course, but this is definitely over the top.
 

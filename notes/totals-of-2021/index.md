@@ -1,4 +1,12 @@
-﻿It is a bit late to sum up, isn't it? Well, the previous couple of months have been, um, tight, so I had no actual time  to sit down and think. Now I'm on vacation for 2021 – so no time like the present. I'm writing, like, from the past.
+---
+title: Totals of 2021
+description: Briefly about the results of the past year and plans for this one.
+created: 2022-02-08 13:25:00
+tags:
+- work
+---
+
+It is a bit late to sum up, isn't it? Well, the previous couple of months have been, um, tight, so I had no actual time  to sit down and think. Now I'm on vacation for 2021 – so no time like the present. I'm writing, like, from the past.
 
 Write out each achievement doesn't attract me at all. The year definitely turned out to be good: I did a lot of complex work on FirstBit ERP (wrote new modules, rewrote existing ones, crushed bugs, wrote functional and load tests – yes, there were countless things). This had a good effect both on the configuration itself and on the profits of my company. In addition, I passed 1C expert exam and a PostgreSQL professional exam. Hip-hip-hooray.
 

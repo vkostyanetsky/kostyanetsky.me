@@ -1,4 +1,15 @@
-﻿Usually the idea of developing is simple: the faster it works, the better. For example, the more requests an application manages to execute per unit of time, the faster the task for which these requests are needed will be solved.
+---
+title: Slow down, I'm recording
+description: A relatively simple way to slow down the execution of requests from a
+  configuration to external services.
+created: 2023-03-05 15:54:51
+tags:
+- 1c
+- bitrix
+- done
+---
+
+Usually the idea of developing is simple: the faster it works, the better. For example, the more requests an application manages to execute per unit of time, the faster the task for which these requests are needed will be solved.
 
 However, it also happens the other way around: you need to reduce the number of operations that a program is able to perform. Let's imagine we exchange data with an external service and it bans if we hit it with requests too often. For example: the cloud version of [Bitrix24](https://bitrix24.net) requires sending requests to it no more than two per second.
 

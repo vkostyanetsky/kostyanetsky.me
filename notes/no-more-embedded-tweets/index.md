@@ -1,4 +1,15 @@
-﻿As soon as I [removed](/notes/no-more-google-fonts/) Google Fonts from my blog, I had to remove embedded tweets as well.
+---
+title: No More Embedded Tweets
+description: Had to remove embedded tweets. Damn!
+created: 2022-03-21 20:25:48
+tags:
+- blog
+- webdev
+- nodejs
+- javascript
+---
+
+As soon as I [removed](/notes/no-more-google-fonts/) Google Fonts from my blog, I had to remove embedded tweets as well.
 
 How did it work before? I want to link a tweet — I simply insert the link to it. The build script replaces it with an HTML block, then Twitter founds this block and replaces it with the text of the tweet (and some useful links as well). This [commit](https://github.com/vkostyanetsky/BlogBuilder/commit/c21ef8a7bec10672406e6be57b8e734ba3ac01c5) shows you how it worked.
 

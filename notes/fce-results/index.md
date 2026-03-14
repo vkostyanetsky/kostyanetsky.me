@@ -1,4 +1,14 @@
-﻿Cambridge just sent me results of my FCE exam in June and — dramatic drum roll — I passed it! According to the statement of results, I made a bunch of mistakes in writing tasks but particularly took it out during a Speaking test. It's a pity that examiners don't give comments and reasons so it's hard to estimate the results properly; however, it's quite clear what to do next :) My English teacher said that Cambridge used to provide an overall score only earlier and it sounded like “take it any way you want, dear pretenders”.
+---
+title: FCE Results
+description: Cambridge just sent me results of my FCE exam in June and — dramatic
+  drum roll — I passed it!
+created: 2018-07-15 10:48:00
+tags:
+- books
+- english
+---
+
+Cambridge just sent me results of my FCE exam in June and — dramatic drum roll — I passed it! According to the statement of results, I made a bunch of mistakes in writing tasks but particularly took it out during a Speaking test. It's a pity that examiners don't give comments and reasons so it's hard to estimate the results properly; however, it's quite clear what to do next :) My English teacher said that Cambridge used to provide an overall score only earlier and it sounded like “take it any way you want, dear pretenders”.
 
 Well, I guess I should begin my preparation for CAE in the next year.
 

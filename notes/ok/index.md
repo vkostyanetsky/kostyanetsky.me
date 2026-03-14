@@ -1,4 +1,14 @@
-﻿https://www.youtube.com/watch?v=GuIPxcXwF30
+---
+title: Okay!
+description: Great video about the English word "okay" and when and how to use it
+  appropriately.
+created: 2022-07-22 13:13:00
+tags:
+- english
+- work
+---
+
+https://www.youtube.com/watch?v=GuIPxcXwF30
 
 Oh, shoot! Just watched the video and realized that I got used to writing OK in morning statuses when asked “how do you feel today”. Like, everything is normal with me, I'm alive and doing well, nothing affects my work, etc.
 

@@ -1,4 +1,14 @@
-﻿The daily award for the most philosophical code goes to the author of this elegant way to check that two boolean variables are not equal to each other:
+---
+title: In a Pedantic Way
+description: How to compare two boolean variables?
+created: 2023-03-21 20:26:43
+tags:
+- 1c
+- work
+- code-smell
+---
+
+The daily award for the most philosophical code goes to the author of this elegant way to check that two boolean variables are not equal to each other:
 
     If DataStructure.Property("AmountVATIn")
         And ((DataStructure.AmountVATIn And NOT SearchPriceIncludesVAT)

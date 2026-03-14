@@ -1,4 +1,14 @@
-﻿I have [translated](https://acomics.ru/~sebby-x-player) Stardew Valley fan manga on a wave of enthusiasm at the end of July (SV is an enormously addictive farmer simulator which [went out](https://store.steampowered.com/app/413150/Stardew_Valley/) a couple of years ago).
+---
+title: Sebby x Player
+description: I have translated Stardew Valley fan manga on a wave of enthusiasm at
+  the end of July.
+created: 2017-08-14 00:00:00
+tags:
+- english
+- videogames
+---
+
+I have [translated](https://acomics.ru/~sebby-x-player) Stardew Valley fan manga on a wave of enthusiasm at the end of July (SV is an enormously addictive farmer simulator which [went out](https://store.steampowered.com/app/413150/Stardew_Valley/) a couple of years ago).
 
 It was an amusing experience. Firstly, an author of the manga is Chinese and her work was already translated from Chinese to English. I'm not sure what was the bigger problem — cultural differences or language skills, but several frames were a bit difficult to understand what's going on. Secondly, I've figured out that it's a real challenge to pick proper Russian words and not to get something like a quote from an official government's letter in the end.
 

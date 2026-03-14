@@ -1,4 +1,12 @@
-﻿This commentary in the documentation for the WriteJSON() method of XDTOSerializer is enviably deep, I would say:
+---
+title: Not Only Everything
+description: A funny mistake in documentation of WriteJSON().
+created: 2024-02-25 22:49:48
+tags:
+- 1c
+---
+
+This commentary in the documentation for the WriteJSON() method of XDTOSerializer is enviably deep, I would say:
 
 ![Not only everyhing](write-json.jpg)
 

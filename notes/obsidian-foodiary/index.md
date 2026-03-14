@@ -1,4 +1,14 @@
-﻿Following my [first](/notes/obsidian-fastimer/) plugin for Obsidian, I released [the second one](https://github.com/vkostyanetsky/ObsidianFoodiary) a couple of weeks ago. Counts calories, proteins, fats, and carbohydrates in food. It helps not to overeat out of nowhere — it’s rather difficult to judge by eye how much you’ve eaten today and whether you can afford that donut.
+---
+title: Foodiary for Obsidian
+description: I made a plugin for Obsidian to estimate a nutritional value of food.
+created: 2024-04-14 22:36:58
+tags:
+- done
+- typescript
+- obsidian
+---
+
+Following my [first](/notes/obsidian-fastimer/) plugin for Obsidian, I released [the second one](https://github.com/vkostyanetsky/ObsidianFoodiary) a couple of weeks ago. Counts calories, proteins, fats, and carbohydrates in food. It helps not to overeat out of nowhere — it’s rather difficult to judge by eye how much you’ve eaten today and whether you can afford that donut.
 
 In short, a useful thing if you:
 

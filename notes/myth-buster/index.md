@@ -1,4 +1,12 @@
-﻿I stumbled upon a hefty Infostart [article](https://infostart.ru/1c/articles/2434171/) all about "debunking myths" around the platform.
+---
+title: Myth Buster
+description: A note regarding the article about myths about the 1C platform.
+created: 2025-07-27 12:21:32
+tags:
+- 1c
+---
+
+I stumbled upon a hefty Infostart [article](https://infostart.ru/1c/articles/2434171/) all about "debunking myths" around the platform.
 
 Honestly, about half of it reads like a joke. It's like:
 

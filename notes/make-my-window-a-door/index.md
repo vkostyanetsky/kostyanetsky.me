@@ -1,3 +1,11 @@
+---
+title: Make Window a Door
+description: A few words about the English idiom «to make someone's window a door».
+created: 2024-08-04 19:26:48
+tags:
+- english
+---
+
 I was listening to [Be Somebody](https://open.spotify.com/track/33MnSYLvtOrbj5zwfioEiH?si=19fec91123394826) by Thousand Foot Krutch yesterday and suddenly caught the phrase “you made my window a door”. I used to think that this idiom is rather funny: like, damn, the idea to replace a window with a door somehow sounds unsafe. You can fall from the tenth floor, you know?
 
 At the same time, the song is wonderful and not about that at all! I got curious and started digging around to find out what meaning native speakers put into it.

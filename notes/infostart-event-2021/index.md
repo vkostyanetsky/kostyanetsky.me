@@ -1,4 +1,14 @@
-﻿Last week I visited Moscow for [Infostart Event 2021](https://event.infostart.ru/2021_msk/):
+---
+title: Infostart Event 2021
+description: A short note about the last conference.
+created: 2021-11-16 23:40:48
+tags:
+- 1c
+- done
+- pgsql
+---
+
+Last week I visited Moscow for [Infostart Event 2021](https://event.infostart.ru/2021_msk/):
 
 - Listen to numbers of interesting reports — check;
 - Meet a few cool people in real life — check;

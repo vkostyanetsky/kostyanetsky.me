@@ -1,4 +1,12 @@
-﻿I figured out a cool trick for cutting off parts of an object when it intersects with something else. Like, in this gif, there’s a monkey head model in the center, and as a plane moves through it, the part that intersects just disappears.
+---
+title: Geometry Deletion
+description: A cool trick for deleting geometry where two models intersect.
+created: 2025-06-12 10:40:43
+tags:
+- 3d
+---
+
+I figured out a cool trick for cutting off parts of an object when it intersects with something else. Like, in this gif, there’s a monkey head model in the center, and as a plane moves through it, the part that intersects just disappears.
 
 ![Demo](demo.gif)
 

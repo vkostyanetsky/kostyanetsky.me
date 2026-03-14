@@ -1,4 +1,13 @@
-﻿![Chichilaki](chichilaki.jpg)
+---
+title: Go Away, Negativity!
+description: A pre-New Year note about the Georgian New Year tree.
+created: 2024-12-29 23:09:32
+tags:
+- georgia
+- meanwhile
+---
+
+![Chichilaki](chichilaki.jpg)
 
 The white things in the background are called chichilaki. It’s a kind of Georgian New Year tree (in practice, it’s finely shaved hazelnut branches). It’s believed to absorb all the accumulated negativity, so after the holidays, it’s supposed to be burned (along with the negativity).
 

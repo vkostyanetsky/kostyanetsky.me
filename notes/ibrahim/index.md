@@ -1,4 +1,12 @@
-﻿Recently, I took a [system analysis course](https://tough-dev.school/system-analysis), which was taught by the guys from the “School of Strong Programmers”. I have two goals:
+---
+title: Ibrahim
+description: Took a course on systems analysis from the School of Strong Programmers.
+created: 2024-07-07 20:29:24
+tags:
+- meanwhile
+---
+
+Recently, I took a [system analysis course](https://tough-dev.school/system-analysis), which was taught by the guys from the “School of Strong Programmers”. I have two goals:
 
 1. First, I need to calibrate. I handle a dozen tech stacks that have different tool sets and concepts of beauty. This, of course, is a great development, but it distorts the perspective: I am drawn to solve the next problem, starting with minor technical things, simply because I am good at it. Meanwhile, if you look at the problem a little from above, think about it, and draw some diagrams, you will get a better or at least more meaningful solution. So I want to convince myself to do this more often.
 2. Secondly, I need to learn how to write clear documentation for developers. In practice, I rarely get around to it, and when I do, I don’t have time to keep it up-to-date. In short, time is short, and I would at least like to do the paperwork somehow so that the reader grasps the idea more quickly.

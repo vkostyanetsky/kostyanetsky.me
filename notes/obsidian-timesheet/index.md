@@ -1,4 +1,15 @@
-﻿I made another [Obsidian](https://obsidian.md) plugin, this time for [daily notes](https://help.obsidian.md/Plugins/Daily+notes). Draws a nice report: what tasks I worked on, what I did, and how much time I spent. I tried to describe how it works in the [repository](https://github.com/vkostyanetsky/ObsidianTimesheet); will be glad if it is useful to someone else!
+---
+title: Timesheet for Obsidian
+description: I made a plugin for Obsidian to generate a daily work log.
+created: 2024-05-12 17:50:58
+tags:
+- done
+- typescript
+- obsidian
+- work
+---
+
+I made another [Obsidian](https://obsidian.md) plugin, this time for [daily notes](https://help.obsidian.md/Plugins/Daily+notes). Draws a nice report: what tasks I worked on, what I did, and how much time I spent. I tried to describe how it works in the [repository](https://github.com/vkostyanetsky/ObsidianTimesheet); will be glad if it is useful to someone else!
 
 Funny thing: for the examples in the README, I used issue numbers FBI-1, FBI-2, and so on. This isn't a reference to the X-Files or Twin Peaks — it's just the first thing that came to mind. The fact is that our internal project for the development of FirstBit ERP is called First Bit Internal, abbreviated as FBI. The main pool of tasks we work on lives in it.
 

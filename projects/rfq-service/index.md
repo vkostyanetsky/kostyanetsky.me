@@ -1,4 +1,21 @@
-﻿## 👀 Situation
+---
+title: RFQ Service
+description: A web application for a trading company, needed for estimating orders
+  from suppliers.
+created: 2022-07-16 00:00:00
+stacks:
+- typescript
+- nodejs
+- react
+- python
+- flask
+- 1c-v8
+- fb-erp
+options:
+- no-rss
+---
+
+## 👀 Situation
 
 A trading company (the client) runs a recurring request-for-quotation (RFQ) process. Before placing a customer order, the company contacts several suppliers, collects their prices, lead times, and terms, and then selects the most favorable offer.
 

@@ -1,4 +1,14 @@
-﻿I just implemented [Fastimer](/notes/obsidian-fastimer)'s rendering through callouts: this is an Obsidian mechanic that allows you to turn an ordinary quote into a designed block of text that attracts the reader's attention. You've probably seen blocks like “advice” and “pay attention” — these are callouts.
+---
+title: Fastimer's Look
+description: Released a new version of the intermittent fasting plugin with appearance
+  improvements.
+created: 2024-03-09 17:44:32
+tags:
+- obsidian
+- typescript
+---
+
+I just implemented [Fastimer](/notes/obsidian-fastimer)'s rendering through callouts: this is an Obsidian mechanic that allows you to turn an ordinary quote into a designed block of text that attracts the reader's attention. You've probably seen blocks like “advice” and “pay attention” — these are callouts.
 
 You can read more in [Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Callouts). 
 

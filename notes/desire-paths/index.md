@@ -1,4 +1,14 @@
-﻿Alright, Jean Fresco's riddle. You've got a table — say, ~50k rows. How do you end up reading half a billion?
+---
+title: Desire Paths
+description: On the harm of template approaches in development.
+created: 2025-11-29 21:00:48
+tags:
+- 1c
+- work
+- optimization
+---
+
+Alright, Jean Fresco's riddle. You've got a table — say, ~50k rows. How do you end up reading half a billion?
 
 Easy-peasy: Nested Loops + Clustered Index Seek:
 

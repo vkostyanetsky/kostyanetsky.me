@@ -1,4 +1,13 @@
-﻿[![Standing!](standing-thumbnail.jpg)](standing.jpg) [![Sitting!](sitting-thumbnail.jpg)](sitting.jpg)
+---
+title: Snowboard Effect
+description: You're sliding down the side of a mountain and trying to sense the equilibrium
+  point.
+created: 2018-12-01 13:58:43
+tags:
+- sport
+---
+
+[![Standing!](standing-thumbnail.jpg)](standing.jpg) [![Sitting!](sitting-thumbnail.jpg)](sitting.jpg)
 
 You're sliding down the side of a mountain and trying to feel an equilibrium point, for the hundredth time. However, your nagging back is the only thing you're able to feel, and the Vaas speech from Far Cry 3 isn't going out of your mind.
 

@@ -1,4 +1,12 @@
-﻿> An important detail: the CallPause method is not available in a client-server call; when a client calls a server method in which CallPause is called, the exception "Cannot call the CallPause method in a client-server call" will be thrown.
+---
+title: Pause()
+description: About a strange restriction in the long-awaited implementation of Pause().
+created: 2023-04-30 14:30:43
+tags:
+- 1c
+---
+
+> An important detail: the CallPause method is not available in a client-server call; when a client calls a server method in which CallPause is called, the exception "Cannot call the CallPause method in a client-server call" will be thrown.
 >
 > [CallPause Method](https://wonderland.v8.1c.ru/blog/metod-vyzvatpauzu/) (RU)
 

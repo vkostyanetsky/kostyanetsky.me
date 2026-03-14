@@ -1,4 +1,13 @@
-﻿A knock at the door. I open it, and there are two bright, twenty-something girls standing there. Flashing huge smiles at me, they start talking a mile a minute.
+---
+title: Cool Stuff!
+description: Language barrier? What barrier?
+created: 2024-09-21 11:59:34
+tags:
+- meanwhile
+- georgia
+---
+
+A knock at the door. I open it, and there are two bright, twenty-something girls standing there. Flashing huge smiles at me, they start talking a mile a minute.
 
 The Georgian language is beautiful, but I haven’t gotten around to learning it yet. I sigh and suggest we switch to English or Russian.
 

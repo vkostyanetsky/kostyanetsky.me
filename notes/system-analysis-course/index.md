@@ -1,4 +1,13 @@
-﻿Amidst all these pet projects and the August whirlwind, I forgot to mention that I completed a [course](https://tough-dev.school/system-analysis) on system analysis, which I recently [wrote about](/notes/ibrahim).
+---
+title: System Analysis
+description: Completed a course on systems analysis from the School of Tough Developers.
+created: 2024-08-25 14:58:48
+tags:
+- done
+- meanwhile
+---
+
+Amidst all these pet projects and the August whirlwind, I forgot to mention that I completed a [course](https://tough-dev.school/system-analysis) on system analysis, which I recently [wrote about](/notes/ibrahim).
 
 ![Certificate](certificate.png)
 

@@ -1,4 +1,12 @@
-﻿Slack, of course, is a thing to scold. For being slow, for having bugs, for notifications. However, I just love his stubs in case there are no new messages.
+---
+title: Slack Advises
+description: Slack notifications and how good it is when there are none of them.
+created: 2022-08-25 19:02:53
+tags:
+- meanwhile
+---
+
+Slack, of course, is a thing to scold. For being slow, for having bugs, for notifications. However, I just love his stubs in case there are no new messages.
 
 Look at this cuteness:
 

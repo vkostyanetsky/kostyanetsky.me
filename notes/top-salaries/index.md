@@ -1,4 +1,13 @@
-﻿> There is a path to a CSV file. You need to open it, read the header (first line), find the Salary column and display the top 10 salaries.
+---
+title: Top Salaries
+description: A few words about Nikita Tonsky's experiment about CSV parsing in different
+  languages.
+created: 2021-10-02 16:49:35
+tags:
+- 1c
+---
+
+> There is a path to a CSV file. You need to open it, read the header (first line), find the Salary column and display the top 10 salaries.
 
 > *[Link](https://t.me/nikitonsky_chat/26402)*
 

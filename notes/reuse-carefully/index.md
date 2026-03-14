@@ -1,4 +1,14 @@
-﻿I'll tell you about a funny and a little embarrassing case that I took apart in January. The essence in a nutshell: a huge auto-test based on Vanessa, which is intended to check the VAT calculation, falls somewhere near the end.
+---
+title: Reuse Carefully
+description: When you work with modules that reuses of return values, you can make
+  an unpleasant error.
+created: 2022-02-08 09:00:11
+tags:
+- 1c
+- work
+---
+
+I'll tell you about a funny and a little embarrassing case that I took apart in January. The essence in a nutshell: a huge auto-test based on Vanessa, which is intended to check the VAT calculation, falls somewhere near the end.
 
 I start investigating. First, I look at the screenshots in Allure: OK, the reason is obvious – in one of the documents, the conditional appearance for the field with the VAT amount doesn't work. The test expected it to be unavailable if the VAT rate is zero, but it turned out to be available somehow.
 

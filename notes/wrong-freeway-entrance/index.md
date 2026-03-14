@@ -1,4 +1,12 @@
-﻿> Have you ever taken the wrong freeway entrance? You need to drive to the next exit to turn around, but you hate every inch of travel because you're going away from your goal.
+---
+title: Wrong Freeway Entrance
+description: Technical debt is a bit like missing a wrong freeway entrance.
+created: 2023-11-14 09:34:10
+tags:
+- code-smell
+---
+
+> Have you ever taken the wrong freeway entrance? You need to drive to the next exit to turn around, but you hate every inch of travel because you're going away from your goal.
 
 >*― Andy Weir, "The Martian"*
 

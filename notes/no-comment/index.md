@@ -1,4 +1,13 @@
-﻿I did not notice when I gave up the habit of pedantically commenting on every method with which I have to work. This practice has some clever name for sure, but I don't care, to be honest. I mean the style when a description is added to every meaningful block of code, like this:
+---
+title: No Comment
+description: 'The further, the less I comment out code. '
+created: 2021-09-08 00:12:00
+tags:
+- 1c
+- code-smell
+---
+
+I did not notice when I gave up the habit of pedantically commenting on every method with which I have to work. This practice has some clever name for sure, but I don't care, to be honest. I mean the style when a description is added to every meaningful block of code, like this:
 
 https://gist.github.com/vkostyanetsky/afae4dee09d639f34156d6c02b29c2a5
 

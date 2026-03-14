@@ -1,4 +1,12 @@
-﻿I love digging into the origins of words from time to time. For example, "log" comes from maritime terminology and literally means a log: a wooden float attached to a rope, which was thrown overboard from a ship. The rope had knots tied at regular intervals, and by counting how many knots unwound in a certain amount of time, sailors could determine the speed of the ship.
+---
+title: Log & Bug
+description: About the origin of a couple of IT-related words.
+created: 2024-10-12 20:45:16
+tags:
+- english
+---
+
+I love digging into the origins of words from time to time. For example, "log" comes from maritime terminology and literally means a log: a wooden float attached to a rope, which was thrown overboard from a ship. The rope had knots tied at regular intervals, and by counting how many knots unwound in a certain amount of time, sailors could determine the speed of the ship.
 
 These measurements were recorded in the ship's journal, which was also called a log. Over time, the term started being used for any kind of record or journal of events, and in IT, the word got a second life :)
 

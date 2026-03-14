@@ -1,4 +1,12 @@
-﻿![Thank you, Mario!](mario.jpg)
+---
+title: Easter Eggs
+description: About Easter eggs in our configurations.
+created: 2025-04-06 23:33:52
+tags:
+- work
+---
+
+![Thank you, Mario!](mario.jpg)
 
 ![Awaiting Signal](mothership.jpg)
 

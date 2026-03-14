@@ -1,4 +1,13 @@
-﻿Looks like we finally caught our first lab-reproducible case of platform cache corruption. Short synopsis:
+---
+title: Voodoo
+description: The first reproducible cache corruption case.
+created: 2025-10-05 23:54:12
+tags:
+- work
+- 1c
+---
+
+Looks like we finally caught our first lab-reproducible case of platform cache corruption. Short synopsis:
 
 - Spin up a fresh app from the v35 template of [our ERP](https://firstbit.ae).
 - Run it and wait for initialization to finish.

@@ -1,4 +1,12 @@
-﻿I get a complaint: a client can’t log into our customer portal. I check the database — the account is fine. So what’s the problem? I check the login and see a strange sight:
+---
+title: About PDF
+description: PDF is not just a Portable Document Format!
+created: 2024-09-06 12:43:48
+tags:
+- work
+---
+
+I get a complaint: a client can’t log into our customer portal. I check the database — the account is fine. So what’s the problem? I check the login and see a strange sight:
 
 ![PDF](pdf.png)
 

@@ -1,4 +1,15 @@
-﻿Once again, I came across a nasty bug when the platform broke the data history metadata table.
+---
+title: Non-Unique Metadata
+description: 'Once again encountered a bug: the platform breaks the data history metadata
+  table.'
+created: 2024-06-08 18:28:35
+tags:
+- 1c
+- pgsql
+- mssql
+---
+
+Once again, I came across a nasty bug when the platform broke the data history metadata table.
 
 Outwardly, it looks like this: you update the database configuration, and when you try to restructure, the error “The data history metadata table contains duplicate records. Delete the duplicate records” pops up. The platform does not offer any clear way to find such records.
 

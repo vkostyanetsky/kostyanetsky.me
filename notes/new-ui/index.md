@@ -1,4 +1,14 @@
-﻿Over the New Year holidays I randomly got obsessed and rewrote my blog's UI. I only wanted to add search for my notes — there are a lot of them now, and every so often I need to quickly fish something out of the pile (like "here's that link" to a coworker).
+---
+title: New Blog's UI
+description: About the new blog interface, which was created during the New Year holidays.
+created: 2026-01-17 18:18:43
+tags:
+- blog
+- work
+- done
+---
+
+Over the New Year holidays I randomly got obsessed and rewrote my blog's UI. I only wanted to add search for my notes — there are a lot of them now, and every so often I need to quickly fish something out of the pile (like "here's that link" to a coworker).
 
 The blog runs on [GitHub Pages](https://pages.github.com), so the options aren’t exactly infinite: either outsource search to Google, or build a static index and ship it to the user's browser so it can grep through it locally. I went with the second route: faster, more controllable, <s>and, yes, an excuse to write code</s>. The first time you search it has to download [the index file](/notes.json), but... It's 200 KB. That's basically one medium-sized sigh in 2026 internet terms.
 

@@ -1,3 +1,12 @@
+---
+title: Do you speak English?
+description: The platform seems to be trying to say that this version is not yet fully
+  debugged.
+created: 2023-05-14 10:15:16
+tags:
+- 1c
+---
+
 The repository login form of the current platform (8.3.22.1923, to be precise) launched with the English interface:
 
 ![Login Form](login-form.png)

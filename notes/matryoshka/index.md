@@ -1,4 +1,13 @@
-﻿A few days ago, there was a link to 1Ci certificate in the team chat (a colleague passed their junior [course](https://academy.1ci.com/courses/1c-junior-developer)). I go over and see no auth form, no errors — I just get a PDF file. Everything is OK, right? Well, then I open the file:
+---
+title: Matryoshka
+description: How gracefully 1Ci outputs errors!
+created: 2021-10-30 17:14:56
+tags:
+- 1c
+- work
+---
+
+A few days ago, there was a link to 1Ci certificate in the team chat (a colleague passed their junior [course](https://academy.1ci.com/courses/1c-junior-developer)). I go over and see no auth form, no errors — I just get a PDF file. Everything is OK, right? Well, then I open the file:
 
 ![Error.pdf](not-your-certificate.png)
 

@@ -1,4 +1,13 @@
-﻿I've rebuilt last year’s [plugin](/notes/obsidian-foodiary/) with [Obsidian Bases](https://help.obsidian.md/bases) — it now tracks calories, protein, fat, and carbs in your food.
+---
+title: Food Diary In Obsidian Bases
+description: Wrote a food calorie calculator using Obsidian Bases
+created: 2025-11-23 00:01:58
+tags:
+- done
+- obsidian
+---
+
+I've rebuilt last year’s [plugin](/notes/obsidian-foodiary/) with [Obsidian Bases](https://help.obsidian.md/bases) — it now tracks calories, protein, fat, and carbs in your food.
 
 The result is way more flexible and customizable than the plugin version: if you suddenly decide you want to count fiber as well or just shuffle some columns in the report, you don't have to rewrite, rebuild, or release anything. You just tweak it to your heart's content.
 

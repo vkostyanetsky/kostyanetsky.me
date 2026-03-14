@@ -1,4 +1,13 @@
-﻿Still learning 3D in my free time. Here's my first somewhat independent project after finishing a [course](https://www.udemy.com/course/blender-environments-megacourse-create-3d-environments/) recently.
+---
+title: Creepy Graveyard
+description: My first somewhat independent 3D project.
+created: 2024-11-26 23:23:48
+tags:
+- 3d
+- done
+---
+
+Still learning 3D in my free time. Here's my first somewhat independent project after finishing a [course](https://www.udemy.com/course/blender-environments-megacourse-create-3d-environments/) recently.
 
 [![Creepy Graveyard](creepy-graveyard.png)](creepy-graveyard.png)
 

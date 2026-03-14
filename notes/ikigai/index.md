@@ -1,3 +1,11 @@
+---
+title: Ikigai
+description: What is the meaning of life?
+created: 2026-03-09 22:01:43
+tags:
+- meanwhile
+---
+
 In Japanese, there's a wonderful word: ikigai. It's kind of like your reason for living, but not in some huge existential sense — more in a grounded, everyday way. A source of inner energy, a source of joy. Basically, the thing that makes you want to get out of bed in the morning.
 
 A person can have several of those anchors, and they're different for everyone. Coffee, a cat, a craft you love, taking care of the people close to you, a garden, walks, video games...

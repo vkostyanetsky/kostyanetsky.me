@@ -1,4 +1,14 @@
-﻿Making a password recover function via SMS for our customer portal. Got to the Twilio [documentation](https://support.twilio.com/hc/en-us/articles/223133767-International-support-for-Alphanumeric-Sender-ID) related to [alphanumeric sender ID](https://www.twilio.com/docs/glossary/what-alphanumeric-sender-id) support in different countries; this feature allows you to send messages so that the recipient sees not the sender's number but something meaningful (a company name, for example).
+---
+title: Romania's Feature
+description: About Romanian specifics when sending SMS using an alphanumeric sender
+  ID.
+created: 2023-08-30 01:02:24
+tags:
+- meanwhile
+- work
+---
+
+Making a password recover function via SMS for our customer portal. Got to the Twilio [documentation](https://support.twilio.com/hc/en-us/articles/223133767-International-support-for-Alphanumeric-Sender-ID) related to [alphanumeric sender ID](https://www.twilio.com/docs/glossary/what-alphanumeric-sender-id) support in different countries; this feature allows you to send messages so that the recipient sees not the sender's number but something meaningful (a company name, for example).
 
 The feature is regulated differently everywhere: in some countries it just works, but in others registration is possible or even required.
 

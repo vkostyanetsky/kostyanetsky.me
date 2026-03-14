@@ -1,4 +1,13 @@
-﻿I accidentally remembered that six months ago, one of my colleagues threw a link to [Yaga](https://yaga.rt.ru) into the work chat. It is a future (I guess) competitor of JIRA in Russia. Judging by the URL, the guys from Rostelecom are developing it. Here my curiosity was awakened — how is it there, did it take off?
+---
+title: Yaga
+description: About a potential competitor of JIRA in Russia.
+created: 2024-07-29 01:21:21
+tags:
+- meanwhile
+- 1c
+---
+
+I accidentally remembered that six months ago, one of my colleagues threw a link to [Yaga](https://yaga.rt.ru) into the work chat. It is a future (I guess) competitor of JIRA in Russia. Judging by the URL, the guys from Rostelecom are developing it. Here my curiosity was awakened — how is it there, did it take off?
 
 Alas, but looks like nope. At least, the landing page has the “leave a request and wait for a response beep” vibe. Only a simplified version is available for smaller teams that I can't touch as well: being not in Russia and clicking on the “Start using” button leads me to a ban. Welp, next time, maybe.
 

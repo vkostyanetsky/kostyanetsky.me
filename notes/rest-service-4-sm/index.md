@@ -1,4 +1,13 @@
-﻿This week, I developed a REST service to set up our service manager (this is a configuration for managing a 1cFresh instance). Deploying the development environment is a regular task for us, and every time the manager's database had to be tuned by hand: tweaking the storefront, changing application addresses, overwriting scheduled tasks, and so on.
+---
+title: REST service for Service Manager
+description: A few words about a shoe that rubbed my foot.
+created: 2023-02-25 19:02:49
+tags:
+- 1c
+- work
+---
+
+This week, I developed a REST service to set up our service manager (this is a configuration for managing a 1cFresh instance). Deploying the development environment is a regular task for us, and every time the manager's database had to be tuned by hand: tweaking the storefront, changing application addresses, overwriting scheduled tasks, and so on.
 
 The implementation was simple. Come up with a JSON structure, write a parser, find a code in the configuration, make it work by external call, and make sure you don't break anything. Routine work, in general, but I love to do such things from time to time: I mean, to look around and try to figure out which of the daily tasks is annoying enough.
 

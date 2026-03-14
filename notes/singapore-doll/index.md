@@ -1,4 +1,12 @@
-﻿Is it possible to love your country's currency more than the people of Saudi Arabia? It is a rhetorical question: the answer is no.
+---
+title: Singapore Doll
+description: There are funny bugs at the front of the central bank of Saudi Arabia.
+created: 2024-06-22 23:46:57
+tags:
+- work
+---
+
+Is it possible to love your country's currency more than the people of Saudi Arabia? It is a rhetorical question: the answer is no.
 
 I'm currently looking at the [website](https://www.sama.gov.sa/en-US/FinExc/Pages/Currency.aspx) of their central bank. The country's currency is the Saudi riyal, and the Central Bank sets rates for other currencies in relation to it. Consequently, there is no point in asking the bank for the rate of the riyal itself. However, the website calmly suggests choosing it twice:
 

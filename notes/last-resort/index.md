@@ -1,4 +1,14 @@
-﻿Recently, we came up with the idea of dividing the internal ERP into several independent parts and organizing data exchange between them. We discussed the outlines of the task, the exchange model, transport, and roughly agreed on deadlines — in general, we did what we usually do.
+---
+title: Screenshot With Sound
+description: About the difficulties with naming tasks when you have good taste in
+  music.
+created: 2024-05-20 00:03:07
+tags:
+- work
+- meanwhile
+---
+
+Recently, we came up with the idea of dividing the internal ERP into several independent parts and organizing data exchange between them. We discussed the outlines of the task, the exchange model, transport, and roughly agreed on deadlines — in general, we did what we usually do.
 
 I created a task for the stuff. We give them names in English, so I wrote in the first wording that came to mind.
 

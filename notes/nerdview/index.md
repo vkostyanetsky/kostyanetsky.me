@@ -1,4 +1,14 @@
-﻿![A chat with my daughter](telegram.png)
+---
+title: Nerd View
+description: My daughter is just letting me know where she is but I see a code.
+created: 2020-10-19 18:35:56
+tags:
+- 1c
+- family
+- work
+---
+
+![A chat with my daughter](telegram.png)
 
 On the screenshot above my little one is just letting me know where she is: walking down the street, at the school, at a playground. It's not her fault that I have a sort of nerd view: when I look at this chat I see nothing but code on Gherkin, which is just a bit broken. A little patch here and there and it will be fine :-)
 

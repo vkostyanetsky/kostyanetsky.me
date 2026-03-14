@@ -1,3 +1,13 @@
+---
+title: Building The Blog on GitHub
+description: I've made a build-and-deploy pipeline for this site on each push to its
+  repository!
+created: 2021-09-29 22:00:00
+tags:
+- blog
+- done
+---
+
 For the last year this site has been working on a simple platform: statics, GitHub and my domain. All the pages were pre-generated and placed in a GitHub's [repository](https://github.com/vkostyanetsky/kostyanetsky.me-static) with [GitHub Pages](https://pages.github.com/) enabled.
 
 I collected statics using a script. It was working with a list of text files, pedantically arranged in folders. The script rummaged through them and generated HTML files. Then I manually pushed them to the repository.

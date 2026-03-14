@@ -1,3 +1,12 @@
+---
+title: Slow Removal of Fresh Areas
+description: About slow deletion of Fresh areas due to inefficient 1C platform query.
+created: 2025-08-03 16:25:35
+tags:
+- 1c
+- work
+---
+
 A colleague noticed that on one of our Fresh instances, deleting data areas had become painfully slow. Dug into the metrics:
 
 <pre>

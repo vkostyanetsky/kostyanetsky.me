@@ -1,4 +1,14 @@
-﻿I was developing payment documents in our configuration last week and came across an incredibly redundant solution to a primitive problem. Sorry, I can't keep to myself.
+---
+title: Hammer & Nails
+description: How to solve a simple task in an extremely difficult way?
+created: 2021-09-15 21:47:48
+tags:
+- 1c
+- work
+- code-smell
+---
+
+I was developing payment documents in our configuration last week and came across an incredibly redundant solution to a primitive problem. Sorry, I can't keep to myself.
 
 Just imagine: you have a document, which contains several tabular sections. Each of them has a comment field. You make a print form for this document; if at least one row of any TS contains a comment — you need to use one template 1, if there are no comments — template 2.
 

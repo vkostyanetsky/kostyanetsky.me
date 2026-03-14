@@ -1,4 +1,13 @@
-﻿https://www.youtube.com/watch?v=mZwHTbu285A
+---
+title: ERP Development In English
+description: A colleague shared some insights (in English) about our work.
+created: 2025-01-19 23:54:12
+tags:
+- work
+- english
+---
+
+https://www.youtube.com/watch?v=mZwHTbu285A
 
 Our lead developer recently shared some insights about our work — specifically, developing ERP systems on 1C for the UAE and, more recently, Saudi Arabia. The session was hosted by the online English school Across, so the audience was spot-on: Russian-speaking folks interested in building careers and exploring international markets.
 

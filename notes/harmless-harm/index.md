@@ -1,4 +1,14 @@
-﻿The other day my colleague and I were debugging an issue, nothing fancy, just another "why is this query behaving weird?" moment.
+---
+title: Harmless Harm
+description: About the features of parameterized queries in MS SQL and PostgreSQL.
+created: 2025-11-16 10:36:00
+tags:
+- 1c
+- pgsql
+- mssql
+---
+
+The other day my colleague and I were debugging an issue, nothing fancy, just another "why is this query behaving weird?" moment.
 
 Simplified, the idea was: we read a table from the database and dump the result into a temp table. If a certain condition is met, we still want the temp table to be created, but it must be empty (regardless of whether the source table has rows or not).
 

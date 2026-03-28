@@ -4,6 +4,8 @@ description: 'Scripts for finding invalid dates in a 1C database.'
 created: 2026-03-28 19:42:53
 tags:
 - 1c
+- mssql
+- pgsql
 ---
 
 I already wrote about the error mentioned in this post’s title [earlier](/notes/date-literal-exceeds-3999), but here's the refresher: the platform chokes on dates later than the year 3999 (things start blowing up at 3999-12-01, I guess). In theory, dates like that should never make it into the database in the first place. In practice... Well, thanks to bugs in application code — and in the platform itself — they sometimes do.

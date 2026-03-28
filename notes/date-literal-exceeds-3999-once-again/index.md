@@ -4,6 +4,7 @@ description: 'Scripts for finding invalid dates in a 1C database.'
 created: 2026-03-28 19:42:53
 tags:
 - 1c
+- work
 - mssql
 - pgsql
 ---

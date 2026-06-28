@@ -4,6 +4,7 @@ description: 'An excellent book on the grim prospects of creating AGI/ASI given 
 created: 2026-06-28 22:00:00
 tags:
 - ai
+- books
 ---
 
 Corpus has published the Russian edition of [If Anyone Builds It, Everyone Dies](https://www.corpus.ru/products/ehliezer-yudkovskij-esli-kto-to-ego-sozdast-vse-pogibnut.htm) by Eliezer Yudkowsky and Nate Soares. Both are well-known researchers in AI safety, AI alignment, and the risks of superintelligence.

@@ -3,7 +3,7 @@ title: Vlad's Site
 description: I'm a business software developer who specializes in 1C:Enterprise and
   experiments with everything else. A lot.
 created: 2018-04-10 00:00:00
-tags: null
+tags:
 options:
 - no-rss
 ---

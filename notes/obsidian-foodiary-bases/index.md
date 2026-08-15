@@ -1,6 +1,6 @@
 ---
 title: Food Diary In Obsidian Bases
-description: Wrote a food calorie calculator using Obsidian Bases
+description: Wrote a food calorie calculator using Obsidian Bases.
 created: 2025-11-23 00:01:58
 tags:
 - done
@@ -15,4 +15,4 @@ And it doesn't look half bad either:
 
 ![UI](base.png)
 
-All the necessary settings and scripts live in the [GitHub repo](https://github.com/vkostyanetsky/ObsidianFoodiaryBases).
+All the necessary settings and scripts live in the [GitHub repo](https://github.com/vkostyanetsky/ObsidianTemplates/tree/main/Foodiary).

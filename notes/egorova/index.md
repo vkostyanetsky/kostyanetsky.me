@@ -37,7 +37,7 @@ Yeah, if it merely produced garbage during pauses, this wouldn't really be a pro
 
 The next chunk might also become Yegorova. And the next one. And the next... By the time the speaker finally starts talking, they'd better enunciate REALLY clearly if they want to convince the model that yes, this is in fact human speech and not Yegorova, who has now accumulated twenty chunks' worth of momentum. As a result, Whisper can get stuck in this state for a surprisingly long time.
 
-The problem is ancient history by ML standards — okay, fine, about four years — and it exists in a bunch of languages. Russian, incidentally, [has its own special flavor](https://github.com/openai/whisper/discussions/928#discussioncomment-5372187): while some poor Italian might be haunted by a boring “Subtitles created by the Amara.org community”, we, shall we say, have our own fandom.
+The problem has been around forever — okay, fine, about four years — and it affects a whole bunch of languages. Russian, incidentally, [stands out](https://github.com/openai/whisper/discussions/928#discussioncomment-5372187): while Italians, French, and Spaniards get the boring old "Subtitles created by the Amara.org community", we, shall we say, have our own fandom.
 
 ## How do you deal with it?
 

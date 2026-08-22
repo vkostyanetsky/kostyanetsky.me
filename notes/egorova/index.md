@@ -6,7 +6,7 @@ tags:
 - ai
 ---
 
-I've been using Whisper pretty much nonstop for meeting transcription over the past six months, and I've noticed a funny effect: the bigger the model, the better it is at recognizing actual speech — and the more confidently it makes shit up when there is no speech at all.
+I've been [using](/notes/autosummary) Whisper pretty much nonstop for meeting transcription over the past six months, and I've noticed a funny effect: the bigger the model, the better it is at recognizing actual speech — and the more confidently it makes shit up when there is no speech at all.
 
 For example, this often happens at the beginning of a webinar or a meeting while people are still joining. It's quiet, nobody is talking, maybe someone is loudly sipping coffee. And then Whisper suddenly starts spitting out something like this:
 

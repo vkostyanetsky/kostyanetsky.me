@@ -54,9 +54,7 @@ Oversimplifying again:
 - Whisper Small: Uh... I can't hear anything. No idea.
 - Whisper Medium: Uh... I can't hear anything... *(strains all its parameters)* OH! I KNOW! *(fanfare starts playing)* THAT'S YEGOROVA!
 
-:D
-
-Suffering from success. Literally.
+:D Suffering from success. Literally.
 
 The transcription quality with Whisper Small is obviously a bit worse — more mangled words, less coherent phrasing — but <s>that's still better than Sinetskaya eating a third of the recording and Yegorova devouring the rest</s> overall, the result is much more predictable.
 

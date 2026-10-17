@@ -1,5 +1,5 @@
 ---
-title: 1C's UUID Storage Trick
+title: UUID In 1C's DB
 description: How 1C stores UUIDs in the database, and what indexes have to do with it.
 created: 2026-10-17 19:24:11
 tags:

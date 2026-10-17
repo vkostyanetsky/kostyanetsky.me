@@ -44,7 +44,7 @@ In a 1C database, the same UUID looks like this:
 
 So the rearrangement puts the timestamp parts in order from most to least significant. With the same clock sequence and Node ID, a later timestamp gives you a larger binary UUID value.
 
-References form part of index keys. When index keys arrive in a random order, new entries land all over the B-tree. If the target index page is already full, it has to be split: allocate a new page, move some entries over, and update the links in the tree. That's called a page split, and it can increase index fragmentation and hurt performance — both immediately and down the road.
+References form part of index keys. When keys arrive in a random order, new entries land all over the B-tree. If the target index page is already full, it has to be split: allocate a new page, move some entries over, and update the links in the tree. That's called a page split, and it can increase index fragmentation and hurt performance — both immediately and down the road.
 
 With mostly increasing keys, though, new entries usually go at the end of the index. Pages fill up more sequentially, and inserts are often cheaper.
 

@@ -50,4 +50,4 @@ With mostly increasing keys, though, new entries usually go at the end of the in
 
 (of course, lots of concurrent inserts bring another problem: everyone wants to write to that same last page and starts elbowing each other out of the way, but that's a story for another day)
 
-Small thing, right? But I like this kind of stuff: you're staring at sixteen odd-looking bytes in a database, and behind them, you can almost make out a perfectly sensible architectural decision somebody made all those years ago.
+(love this kind of stuff: you're just staring at some weird-looking sixteen bytes in a database, and suddenly you start to see what looks like a perfectly sensible architectural decision made by some unknown person years ago)

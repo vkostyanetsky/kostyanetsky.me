@@ -4,6 +4,8 @@ description: How 1C stores UUIDs in the database, and what indexes have to do wi
 created: 2026-10-17 19:24:11
 tags:
 - 1c
+- mssql
+- pgsql
 - optimization
 ---
 

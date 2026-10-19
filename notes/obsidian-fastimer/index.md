@@ -4,7 +4,7 @@ description: I made a plugin for Obsidian to work with intermittent fasting inte
 created: 2024-02-13 01:08:58
 tags:
 - done
-- typescript
+- javascript
 - obsidian
 ---
 

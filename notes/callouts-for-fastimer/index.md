@@ -5,7 +5,7 @@ description: Released a new version of the intermittent fasting plugin with appe
 created: 2024-03-09 17:44:32
 tags:
 - obsidian
-- typescript
+- javascript
 ---
 
 I just implemented [Fastimer](/notes/obsidian-fastimer)'s rendering through callouts: this is an Obsidian mechanic that allows you to turn an ordinary quote into a designed block of text that attracts the reader's attention. You've probably seen blocks like “advice” and “pay attention” — these are callouts.

@@ -4,7 +4,7 @@ description: I made a plugin for Obsidian to generate a daily work log.
 created: 2024-05-12 17:50:58
 tags:
 - done
-- typescript
+- javascript
 - obsidian
 - work
 ---

@@ -4,7 +4,7 @@ description: I made a plugin for Obsidian to estimate a nutritional value of foo
 created: 2024-04-14 22:36:58
 tags:
 - done
-- typescript
+- javascript
 - obsidian
 ---
 

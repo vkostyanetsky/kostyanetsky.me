@@ -4,7 +4,6 @@ description: I removed Google Fonts from my blog and here is the reason.
 created: 2022-02-19 20:25:48
 tags:
 - blog
-- webdev
 ---
 
 [![Tweet](snap-tweet-PixelAmbacht-1494272370076536840.png)](https://twitter.com/PixelAmbacht/status/1494272370076536840)

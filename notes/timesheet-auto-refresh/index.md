@@ -4,7 +4,7 @@ description: Made a few improvements to my Obsidian plugin that generates a list
 created: 2026-07-26 12:37:00
 tags:
 - obsidian
-- nodejs
+- javascript
 ---
 
 I spontaneously returned to my old [Obsidian plugin](https://github.com/vkostyanetsky/ObsidianTimesheet), which takes the daily note for a given day and generates a list of tasks along with the time spent on each one.

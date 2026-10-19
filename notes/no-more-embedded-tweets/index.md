@@ -4,7 +4,6 @@ description: Had to remove embedded tweets. Damn!
 created: 2022-03-21 20:25:48
 tags:
 - blog
-- nodejs
 - javascript
 ---
 

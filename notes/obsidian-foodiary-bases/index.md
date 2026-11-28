@@ -15,4 +15,4 @@ And it doesn't look half bad either:
 
 ![UI](base.png)
 
-All the necessary settings and scripts live in the [GitHub repo](https://github.com/vkostyanetsky/ObsidianTemplates/tree/main/Foodiary).
+All the necessary settings and scripts live in the [GitHub repo](https://github.com/vkostyanetsky/ObsidianVaultTemplates/tree/main/Foodiary).
